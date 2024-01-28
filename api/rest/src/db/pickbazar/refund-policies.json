@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Vendor Return Policy",
+    "slug": "vendor-return-policy",
+    "target": "vendor",
+    "status": "approved",
+    "description": "Our vendor return policy ensures that you can return products within 30 days of purchase if they are damaged or not as described.",
+    "language": "en",
+    "translated_languages": ["en"]
+  },
+  {
+    "id": 2,
+    "title": "Customer Return Policy",
+    "slug": "customer-return-policy",
+    "target": "customer",
+    "status": "approved",
+    "description": "Our customer return policy allows you to return products within 14 days of purchase for a full refund, no questions asked.",
+    "language": "en",
+    "translated_languages": ["en"]
+  },
+  {
+    "id": 3,
+    "title": "Electronics Return Policy",
+    "slug": "electronics-return-policy",
+    "target": "customer",
+    "status": "approved",
+    "description": "For electronics, our return policy extends to 60 days. We stand by the quality of our electronic products.",
+    "language": "en",
+    "translated_languages": ["en"]
+  },
+  {
+    "id": 4,
+    "title": "Furniture Return Policy",
+    "slug": "furniture-return-policy",
+    "target": "customer",
+    "status": "approved",
+    "description": "Our furniture return policy allows you to return furniture within 7 days if it doesn't meet your expectations. Customer satisfaction is our priority.",
+    "language": "en",
+    "translated_languages": ["en"]
+  },
+  {
+    "id": 5,
+    "title": "Custom Orders Policy",
+    "slug": "custom-orders-policy",
+    "target": "customer",
+    "status": "approved",
+    "description": "Please note that custom orders are not eligible for returns or refunds. We craft custom items to your specifications.",
+    "language": "en",
+    "translated_languages": ["en"]
+  }
+]

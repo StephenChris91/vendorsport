@@ -1,0 +1,642 @@
+[
+  {
+      "id": 888,
+      "name": "The Bedtime Stories Part One",
+      "slug": "the-sifi-third-part",
+      "description": "Children's literature or juvenile literature includes stories, books, magazines, and runes that are created for children. Ultramodern children's literature is classified in two different ways kidney or the intended age of the anthology.Children's literature can be traced to traditional stories like puck tales, that have only been linked as children\u2019s literature in the eighteenth century, and songs, part of a wider oral tradition, that grown-ups participated with children before publishing was.",
+      "type_id": 8,
+      "price": 100,
+      "shop_id": 7,
+      "sale_price": null,
+      "language": "en",
+      "min_price": 100,
+      "max_price": 100,
+      "sku": "5sad1fa654sd8g4sda4a89b51v 0",
+      "quantity": 500,
+      "sold_quantity": 0,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "in_flash_sale": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1 pc",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+          "id": 1672,
+          "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1672\/Children-Literature-2.jpg",
+          "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1672\/conversions\/Children-Literature-2-thumbnail.jpg"
+      },
+      "video": [],
+      "gallery": [],
+      "deleted_at": null,
+      "created_at": "2021-12-07T16:56:47.000000Z",
+      "updated_at": "2023-10-25T08:23:37.000000Z",
+      "author_id": 2,
+      "manufacturer_id": 2,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "blocked_dates": [],
+      "total_sales": 4,
+      "ratings": 0,
+      "total_reviews": 0,
+      "rating_count": [],
+      "my_review": null,
+      "in_wishlist": false,
+      "translated_languages": [
+          "en"
+      ],
+      "type": {
+          "id": 8,
+          "name": "Books",
+          "settings": {
+              "isHome": false,
+              "productCard": "radon",
+              "layoutType": "compact",
+              "bestSelling": {
+                  "enable": true,
+                  "title": "Best Selling Products"
+              },
+              "popularProducts": {
+                  "enable": true,
+                  "title": "Popular Products"
+              },
+              "category": {
+                  "enable": true,
+                  "title": "Whick Book You Like To See?"
+              },
+              "handpickedProducts": [],
+              "newArrival": {
+                  "enable": true,
+                  "title": "New Arrival"
+              },
+              "authors": {
+                  "enable": false
+              },
+              "manufactures": []
+          },
+          "slug": "books",
+          "language": "en",
+          "icon": "BookIcon",
+          "promotional_sliders": [],
+          "created_at": "2021-12-07T16:30:18.000000Z",
+          "updated_at": "2023-12-07T09:18:42.000000Z",
+          "translated_languages": [
+              "en"
+          ]
+      },
+      "shop": {
+          "id": 7,
+          "owner_id": 1,
+          "name": "Books Shop",
+          "slug": "books-shop",
+          "description": "This is the book shop. All the publications sells their book under this book shop",
+          "cover_image": {
+              "id": 1374,
+              "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1374\/Cover.png",
+              "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1374\/conversions\/Cover-thumbnail.jpg"
+          },
+          "logo": {
+              "id": 1613,
+              "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1613\/Publisher-logo.png",
+              "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1613\/conversions\/Publisher-logo-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+              "country": "Switzerland",
+              "city": "zurich",
+              "state": "California",
+              "zip": "8021",
+              "street_address": "44444"
+          },
+          "settings": {
+              "notifications": {
+                  "email": null
+              },
+              "contact": "7033542601",
+              "website": "demodemo.com",
+              "location": [],
+              "socials": []
+          },
+          "notifications": null,
+          "created_at": "2021-12-07T16:47:07.000000Z",
+          "updated_at": "2023-10-25T03:30:21.000000Z"
+      }
+  },
+  {
+      "id": 892,
+      "name": "The Adventures of  Pin Pin",
+      "slug": "the-adventures-of-pin-pin",
+      "description": "A comic book, also called ridiculous book, ridiculous magazine or simply ridiculous, is a publication that consists of comics art in the form of successional adjoining panels that represent individual scenes.",
+      "type_id": 8,
+      "price": null,
+      "shop_id": 7,
+      "sale_price": null,
+      "language": "en",
+      "min_price": 225,
+      "max_price": 225,
+      "sku": null,
+      "quantity": 3000,
+      "sold_quantity": 0,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "in_flash_sale": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "variable",
+      "unit": "1 pc",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+          "id": 1668,
+          "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1668\/Comic-Books-6.jpg",
+          "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1668\/conversions\/Comic-Books-6-thumbnail.jpg"
+      },
+      "video": [],
+      "gallery": [],
+      "deleted_at": null,
+      "created_at": "2021-12-11T17:05:17.000000Z",
+      "updated_at": "2023-10-25T08:22:15.000000Z",
+      "author_id": 8,
+      "manufacturer_id": 5,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "blocked_dates": [],
+      "total_sales": 1,
+      "ratings": 0,
+      "total_reviews": 0,
+      "rating_count": [],
+      "my_review": null,
+      "in_wishlist": false,
+      "translated_languages": [
+          "en"
+      ],
+      "type": {
+          "id": 8,
+          "name": "Books",
+          "settings": {
+              "isHome": false,
+              "productCard": "radon",
+              "layoutType": "compact",
+              "bestSelling": {
+                  "enable": true,
+                  "title": "Best Selling Products"
+              },
+              "popularProducts": {
+                  "enable": true,
+                  "title": "Popular Products"
+              },
+              "category": {
+                  "enable": true,
+                  "title": "Whick Book You Like To See?"
+              },
+              "handpickedProducts": [],
+              "newArrival": {
+                  "enable": true,
+                  "title": "New Arrival"
+              },
+              "authors": {
+                  "enable": false
+              },
+              "manufactures": []
+          },
+          "slug": "books",
+          "language": "en",
+          "icon": "BookIcon",
+          "promotional_sliders": [],
+          "created_at": "2021-12-07T16:30:18.000000Z",
+          "updated_at": "2023-12-07T09:18:42.000000Z",
+          "translated_languages": [
+              "en"
+          ]
+      },
+      "shop": {
+          "id": 7,
+          "owner_id": 1,
+          "name": "Books Shop",
+          "slug": "books-shop",
+          "description": "This is the book shop. All the publications sells their book under this book shop",
+          "cover_image": {
+              "id": 1374,
+              "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1374\/Cover.png",
+              "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1374\/conversions\/Cover-thumbnail.jpg"
+          },
+          "logo": {
+              "id": 1613,
+              "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1613\/Publisher-logo.png",
+              "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1613\/conversions\/Publisher-logo-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+              "country": "Switzerland",
+              "city": "zurich",
+              "state": "California",
+              "zip": "8021",
+              "street_address": "44444"
+          },
+          "settings": {
+              "notifications": {
+                  "email": null
+              },
+              "contact": "7033542601",
+              "website": "demodemo.com",
+              "location": [],
+              "socials": []
+          },
+          "notifications": null,
+          "created_at": "2021-12-07T16:47:07.000000Z",
+          "updated_at": "2023-10-25T03:30:21.000000Z"
+      }
+  },
+  {
+      "id": 887,
+      "name": "The Bed Time Story Part 2",
+      "slug": "the-sifi-second-part",
+      "description": "Children's literature or juvenile literature includes stories, books, magazines, and runes that are created for children. Ultramodern children's literature is classified in two different ways kidney or the intended age of the anthology.Children's literature can be traced to traditional stories like puck tales, that have only been linked as children\u2019s literature in the eighteenth century, and songs, part of a wider oral tradition, that grown-ups participated with children before publishing was.",
+      "type_id": 8,
+      "price": 150,
+      "shop_id": 7,
+      "sale_price": 120,
+      "language": "en",
+      "min_price": 150,
+      "max_price": 150,
+      "sku": "8a4s9fsd5a1cx6543c1ad",
+      "quantity": 500,
+      "sold_quantity": 0,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "in_flash_sale": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1 pc",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+          "id": 1673,
+          "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1673\/Children-Literature-3.jpg",
+          "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1673\/conversions\/Children-Literature-3-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [],
+      "deleted_at": null,
+      "created_at": "2021-12-07T16:55:33.000000Z",
+      "updated_at": "2023-10-25T03:30:21.000000Z",
+      "author_id": 3,
+      "manufacturer_id": 1,
+      "is_digital": 0,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "blocked_dates": [],
+      "total_sales": 1,
+      "ratings": 0,
+      "total_reviews": 0,
+      "rating_count": [],
+      "my_review": null,
+      "in_wishlist": false,
+      "translated_languages": [
+          "en"
+      ],
+      "type": {
+          "id": 8,
+          "name": "Books",
+          "settings": {
+              "isHome": false,
+              "productCard": "radon",
+              "layoutType": "compact",
+              "bestSelling": {
+                  "enable": true,
+                  "title": "Best Selling Products"
+              },
+              "popularProducts": {
+                  "enable": true,
+                  "title": "Popular Products"
+              },
+              "category": {
+                  "enable": true,
+                  "title": "Whick Book You Like To See?"
+              },
+              "handpickedProducts": [],
+              "newArrival": {
+                  "enable": true,
+                  "title": "New Arrival"
+              },
+              "authors": {
+                  "enable": false
+              },
+              "manufactures": []
+          },
+          "slug": "books",
+          "language": "en",
+          "icon": "BookIcon",
+          "promotional_sliders": [],
+          "created_at": "2021-12-07T16:30:18.000000Z",
+          "updated_at": "2023-12-07T09:18:42.000000Z",
+          "translated_languages": [
+              "en"
+          ]
+      },
+      "shop": {
+          "id": 7,
+          "owner_id": 1,
+          "name": "Books Shop",
+          "slug": "books-shop",
+          "description": "This is the book shop. All the publications sells their book under this book shop",
+          "cover_image": {
+              "id": 1374,
+              "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1374\/Cover.png",
+              "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1374\/conversions\/Cover-thumbnail.jpg"
+          },
+          "logo": {
+              "id": 1613,
+              "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1613\/Publisher-logo.png",
+              "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1613\/conversions\/Publisher-logo-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+              "country": "Switzerland",
+              "city": "zurich",
+              "state": "California",
+              "zip": "8021",
+              "street_address": "44444"
+          },
+          "settings": {
+              "notifications": {
+                  "email": null
+              },
+              "contact": "7033542601",
+              "website": "demodemo.com",
+              "location": [],
+              "socials": []
+          },
+          "notifications": null,
+          "created_at": "2021-12-07T16:47:07.000000Z",
+          "updated_at": "2023-10-25T03:30:21.000000Z"
+      }
+  },
+  {
+      "id": 883,
+      "name": "The children story",
+      "slug": "the-children-story",
+      "description": "Children's literature or juvenile literature includes stories, books, magazines, and runes that are created for children. Ultramodern children's literature is classified in two different ways kidney or the intended age of the anthology.Children's literature can be traced to traditional stories like puck tales, that have only been linked as children\u2019s literature in the eighteenth century, and songs, part of a wider oral tradition, that grown-ups participated with children before publishing was.",
+      "type_id": 8,
+      "price": 250,
+      "shop_id": 7,
+      "sale_price": 220,
+      "language": "en",
+      "min_price": 250,
+      "max_price": 250,
+      "sku": "651d6f54as654sd56f4",
+      "quantity": 500,
+      "sold_quantity": 0,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "in_flash_sale": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1 pc",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+          "id": 1677,
+          "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1677\/Children-Literature-7.jpg",
+          "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1677\/conversions\/Children-Literature-7-thumbnail.jpg"
+      },
+      "video": [],
+      "gallery": [],
+      "deleted_at": null,
+      "created_at": "2021-12-07T16:50:23.000000Z",
+      "updated_at": "2023-10-25T09:02:39.000000Z",
+      "author_id": 4,
+      "manufacturer_id": 2,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "blocked_dates": [],
+      "total_sales": 1,
+      "ratings": 0,
+      "total_reviews": 0,
+      "rating_count": [],
+      "my_review": null,
+      "in_wishlist": false,
+      "translated_languages": [
+          "en"
+      ],
+      "type": {
+          "id": 8,
+          "name": "Books",
+          "settings": {
+              "isHome": false,
+              "productCard": "radon",
+              "layoutType": "compact",
+              "bestSelling": {
+                  "enable": true,
+                  "title": "Best Selling Products"
+              },
+              "popularProducts": {
+                  "enable": true,
+                  "title": "Popular Products"
+              },
+              "category": {
+                  "enable": true,
+                  "title": "Whick Book You Like To See?"
+              },
+              "handpickedProducts": [],
+              "newArrival": {
+                  "enable": true,
+                  "title": "New Arrival"
+              },
+              "authors": {
+                  "enable": false
+              },
+              "manufactures": []
+          },
+          "slug": "books",
+          "language": "en",
+          "icon": "BookIcon",
+          "promotional_sliders": [],
+          "created_at": "2021-12-07T16:30:18.000000Z",
+          "updated_at": "2023-12-07T09:18:42.000000Z",
+          "translated_languages": [
+              "en"
+          ]
+      },
+      "shop": {
+          "id": 7,
+          "owner_id": 1,
+          "name": "Books Shop",
+          "slug": "books-shop",
+          "description": "This is the book shop. All the publications sells their book under this book shop",
+          "cover_image": {
+              "id": 1374,
+              "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1374\/Cover.png",
+              "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1374\/conversions\/Cover-thumbnail.jpg"
+          },
+          "logo": {
+              "id": 1613,
+              "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1613\/Publisher-logo.png",
+              "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1613\/conversions\/Publisher-logo-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+              "country": "Switzerland",
+              "city": "zurich",
+              "state": "California",
+              "zip": "8021",
+              "street_address": "44444"
+          },
+          "settings": {
+              "notifications": {
+                  "email": null
+              },
+              "contact": "7033542601",
+              "website": "demodemo.com",
+              "location": [],
+              "socials": []
+          },
+          "notifications": null,
+          "created_at": "2021-12-07T16:47:07.000000Z",
+          "updated_at": "2023-10-25T03:30:21.000000Z"
+      }
+  },
+  {
+      "id": 946,
+      "name": "Blood Drinker",
+      "slug": "blood-drinker",
+      "description": "Cerebral suspenser is a kidney combining the suspenser and cerebral fabrication stripes. It's generally used to describe literature or flicks that deal with cerebral narratives in a suspenser or thrilling setting.\nIn terms of environment and convention, it's a subgenre of the broader ranging suspenser narrative structure, with parallels to Gothic and operative fabrication in the sense of occasionally having a\" dissolving sense of reality\". It's frequently told through the standpoint of psychologically stressed characters, revealing their distorted internal comprehensions and fastening on the complex and frequently tortured connections between compulsive and pathological characters Cerebral suspensers frequently incorporate rudiments of riddle, drama, action, and paranoia. The kidney is nearly related to and occasionally overlaps with the cerebral horror kidney, the ultimate generally involving further horror and terror rudiments and themes and further disturbing or shocking scripts.",
+      "type_id": 8,
+      "price": null,
+      "shop_id": 7,
+      "sale_price": null,
+      "language": "en",
+      "min_price": 180,
+      "max_price": 200,
+      "sku": null,
+      "quantity": 2000,
+      "sold_quantity": 0,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "in_flash_sale": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "variable",
+      "unit": "1 pc",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+          "id": 1620,
+          "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1620\/Thriller-7.jpg",
+          "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1620\/conversions\/Thriller-7-thumbnail.jpg"
+      },
+      "video": [],
+      "gallery": [],
+      "deleted_at": null,
+      "created_at": "2021-12-12T18:23:23.000000Z",
+      "updated_at": "2023-10-25T03:30:21.000000Z",
+      "author_id": 3,
+      "manufacturer_id": 9,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "blocked_dates": [],
+      "total_sales": 1,
+      "ratings": 0,
+      "total_reviews": 0,
+      "rating_count": [],
+      "my_review": null,
+      "in_wishlist": false,
+      "translated_languages": [
+          "en"
+      ],
+      "type": {
+          "id": 8,
+          "name": "Books",
+          "settings": {
+              "isHome": false,
+              "productCard": "radon",
+              "layoutType": "compact",
+              "bestSelling": {
+                  "enable": true,
+                  "title": "Best Selling Products"
+              },
+              "popularProducts": {
+                  "enable": true,
+                  "title": "Popular Products"
+              },
+              "category": {
+                  "enable": true,
+                  "title": "Whick Book You Like To See?"
+              },
+              "handpickedProducts": [],
+              "newArrival": {
+                  "enable": true,
+                  "title": "New Arrival"
+              },
+              "authors": {
+                  "enable": false
+              },
+              "manufactures": []
+          },
+          "slug": "books",
+          "language": "en",
+          "icon": "BookIcon",
+          "promotional_sliders": [],
+          "created_at": "2021-12-07T16:30:18.000000Z",
+          "updated_at": "2023-12-07T09:18:42.000000Z",
+          "translated_languages": [
+              "en"
+          ]
+      },
+      "shop": {
+          "id": 7,
+          "owner_id": 1,
+          "name": "Books Shop",
+          "slug": "books-shop",
+          "description": "This is the book shop. All the publications sells their book under this book shop",
+          "cover_image": {
+              "id": 1374,
+              "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1374\/Cover.png",
+              "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1374\/conversions\/Cover-thumbnail.jpg"
+          },
+          "logo": {
+              "id": 1613,
+              "original": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1613\/Publisher-logo.png",
+              "thumbnail": "https:\/\/pickbazarlaravel.s3.ap-southeast-1.amazonaws.com\/1613\/conversions\/Publisher-logo-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+              "country": "Switzerland",
+              "city": "zurich",
+              "state": "California",
+              "zip": "8021",
+              "street_address": "44444"
+          },
+          "settings": {
+              "notifications": {
+                  "email": null
+              },
+              "contact": "7033542601",
+              "website": "demodemo.com",
+              "location": [],
+              "socials": []
+          },
+          "notifications": null,
+          "created_at": "2021-12-07T16:47:07.000000Z",
+          "updated_at": "2023-10-25T03:30:21.000000Z"
+      }
+  }
+]

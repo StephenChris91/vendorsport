@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Product Not as Described",
+    "slug": "product-not-as-described",
+    "language": "en",
+    "created_at": "2023-11-12T10:58:58.000000Z",
+    "updated_at": "2023-11-12T10:58:58.000000Z",
+    "deleted_at": null,
+    "translated_languages": ["en"]
+  },
+  {
+    "id": 2,
+    "name": "Wrong Item Shipped",
+    "slug": "wrong-item-shipped",
+    "language": "en",
+    "created_at": "2023-11-12T10:58:58.000000Z",
+    "updated_at": "2023-11-12T10:58:58.000000Z",
+    "deleted_at": null,
+    "translated_languages": ["en"]
+  },
+  {
+    "id": 3,
+    "name": "Damaged Item",
+    "slug": "damaged-item",
+    "language": "en",
+    "created_at": "2023-11-12T10:58:58.000000Z",
+    "updated_at": "2023-11-12T10:58:58.000000Z",
+    "deleted_at": null,
+    "translated_languages": ["en"]
+  },
+  {
+    "id": 4,
+    "name": "Cancelled Order",
+    "slug": "cancelled-order",
+    "language": "en",
+    "created_at": "2023-11-12T10:58:58.000000Z",
+    "updated_at": "2023-11-12T10:58:58.000000Z",
+    "deleted_at": null,
+    "translated_languages": ["en"]
+  },
+  {
+    "id": 5,
+    "name": "Late Delivery",
+    "slug": "late-delivery",
+    "language": "en",
+    "created_at": "2023-11-12T10:58:58.000000Z",
+    "updated_at": "2023-11-12T10:58:58.000000Z",
+    "deleted_at": null,
+    "translated_languages": ["en"]
+  },
+  {
+    "id": 6,
+    "name": "Item Not Needed",
+    "slug": "item-not-needed",
+    "language": "en",
+    "created_at": "2023-11-12T10:58:58.000000Z",
+    "updated_at": "2023-11-12T10:58:58.000000Z",
+    "deleted_at": null,
+    "translated_languages": ["en"]
+  },
+  {
+    "id": 7,
+    "name": "Changed Mind",
+    "slug": "changed-mind",
+    "language": "en",
+    "created_at": "2023-11-12T10:58:58.000000Z",
+    "updated_at": "2023-11-12T10:58:58.000000Z",
+    "deleted_at": null,
+    "translated_languages": ["en"]
+  },
+  {
+    "id": 8,
+    "name": "Others",
+    "slug": "others",
+    "language": "en",
+    "created_at": "2023-11-12T10:58:58.000000Z",
+    "updated_at": "2023-11-12T10:58:58.000000Z",
+    "deleted_at": null,
+    "translated_languages": ["en"]
+  }
+]

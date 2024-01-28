@@ -1,0 +1,222 @@
+[
+  {
+    "id": 10,
+    "code": "4OFF",
+    "language": "en",
+    "description": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/924/conversions/4x2x-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/924/4x2x.png",
+      "id": 924
+    },
+    "type": "fixed",
+    "amount": 4,
+    "minimum_cart_amount": 160,
+    "active_from": "2021-03-28T05:46:42.000Z",
+    "expire_at": "2024-03-28T05:46:42.000Z",
+    "is_valid": true,
+    "target": 1,
+    "is_approve": 1,
+    "translated_languages": ["en"],
+    "shop_id": 1,
+    "user_id": null
+  },
+  {
+    "id": 9,
+    "code": "5OFF",
+    "language": "en",
+    "description": null,
+    "image": {
+      "id": 925,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/925/5x2x.png",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/925/conversions/5x2x-thumbnail.jpg"
+    },
+    "type": "fixed",
+    "amount": 5,
+    "minimum_cart_amount": 0,
+    "active_from": "2021-03-28T05:46:42.000Z",
+    "expire_at": "2024-06-23T05:46:42.000Z",
+    "is_valid": true,
+    "target": 0,
+    "is_approve": 1,
+    "translated_languages": ["en"],
+    "shop_id": 2,
+    "user_id": null
+  },
+  {
+    "id": 8,
+    "code": "OFF6",
+    "language": "en",
+    "description": null,
+    "image": {
+      "id": 926,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/926/6x2x.png",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/926/conversions/6x2x-thumbnail.jpg"
+    },
+    "type": "fixed",
+    "amount": 6,
+    "minimum_cart_amount": 0,
+    "active_from": "2021-03-28T05:46:42.000Z",
+    "expire_at": "2024-07-14T05:46:42.000Z",
+    "is_valid": true,
+    "target": 0,
+    "is_approve": 1,
+    "translated_languages": ["en"],
+    "shop_id": 3,
+    "user_id": null
+  },
+  {
+    "id": 7,
+    "code": "BAZAR10",
+    "language": "en",
+    "description": null,
+    "image": {
+      "id": 927,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/927/10x2x.png",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/927/conversions/10x2x-thumbnail.jpg"
+    },
+    "type": "fixed",
+    "amount": 10,
+    "minimum_cart_amount": 0,
+    "active_from": "2021-03-28T05:46:42.000Z",
+    "expire_at": "2025-05-26T05:46:42.000Z",
+    "is_valid": true,
+    "target": 0,
+    "is_approve": 1,
+    "translated_languages": ["en"],
+    "shop_id": 1,
+    "user_id": null
+  },
+  {
+    "id": 6,
+    "code": "BAZAR20",
+    "language": "en",
+    "description": null,
+    "image": {
+      "id": 928,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/928/20x2x.png",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/928/conversions/20x2x-thumbnail.jpg"
+    },
+    "type": "fixed",
+    "amount": 20,
+    "minimum_cart_amount": 0,
+    "active_from": "2021-03-27T20:55:49.000Z",
+    "expire_at": "2024-04-26T20:55:49.000Z",
+    "is_valid": true,
+    "target": 0,
+    "is_approve": 1,
+    "translated_languages": ["en"],
+    "shop_id": 1,
+    "user_id": null
+  },
+  {
+    "id": 5,
+    "code": "BAZAR18",
+    "language": "en",
+    "description": null,
+    "image": {
+      "id": 929,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/929/18x2x.png",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/929/conversions/18x2x-thumbnail.jpg"
+    },
+    "type": "fixed",
+    "amount": 18,
+    "minimum_cart_amount": 0,
+    "active_from": "2021-03-27T20:55:49.000Z",
+    "expire_at": "2024-04-15T20:55:49.000Z",
+    "is_valid": true,
+    "target": 0,
+    "is_approve": 1,
+    "translated_languages": ["en"],
+    "shop_id": 2,
+    "user_id": null
+  },
+  {
+    "id": 4,
+    "code": "HELLO15",
+    "language": "en",
+    "description": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/930/conversions/15x2x-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/930/15x2x.png",
+      "id": 930
+    },
+    "type": "percentage",
+    "amount": 15,
+    "minimum_cart_amount": 100,
+    "active_from": "2021-03-27T20:48:28.000Z",
+    "expire_at": "2024-04-23T20:48:28.000Z",
+    "is_valid": true,
+    "target": 0,
+    "is_approve": 1,
+    "translated_languages": ["en"],
+    "shop_id": 3,
+    "user_id": null
+  },
+  {
+    "id": 3,
+    "code": "EID12",
+    "language": "en",
+    "description": null,
+    "image": {
+      "id": 931,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/931/12x2x.png",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/931/conversions/12x2x-thumbnail.jpg"
+    },
+    "type": "fixed",
+    "amount": 12,
+    "minimum_cart_amount": 0,
+    "active_from": "2021-03-27T20:48:28.000Z",
+    "expire_at": "2024-05-26T20:48:28.000Z",
+    "is_valid": true,
+    "target": 0,
+    "is_approve": 1,
+    "translated_languages": ["en"],
+    "shop_id": 1,
+    "user_id": null
+  },
+  {
+    "id": 2,
+    "code": "FOO",
+    "language": "en",
+    "description": null,
+    "image": {
+      "id": 932,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/932/8x2x.png",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/932/conversions/8x2x-thumbnail.jpg"
+    },
+    "type": "fixed",
+    "amount": 8,
+    "minimum_cart_amount": 0,
+    "active_from": "2021-03-27T05:33:22.000Z",
+    "expire_at": "2024-05-26T05:33:22.000Z",
+    "is_valid": true,
+    "target": 0,
+    "is_approve": 1,
+    "translated_languages": ["en"],
+    "shop_id": 1,
+    "user_id": null
+  },
+  {
+    "id": 1,
+    "code": "EID2",
+    "language": "en",
+    "description": null,
+    "image": {
+      "id": 933,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/933/2x2x.png",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/933/conversions/2x2x-thumbnail.jpg"
+    },
+    "type": "fixed",
+    "amount": 2,
+    "minimum_cart_amount": 0,
+    "active_from": "2021-03-10T21:48:15.000Z",
+    "expire_at": "2024-07-27T21:48:15.000Z",
+    "is_valid": true,
+    "target": 0,
+    "is_approve": 1,
+    "translated_languages": ["en"],
+    "shop_id": 1,
+    "user_id": null
+  }
+]

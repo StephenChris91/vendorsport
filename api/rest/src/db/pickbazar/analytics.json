@@ -1,0 +1,99 @@
+{
+  "totalRevenue": 1818.8,
+  "totalRefunds": 0,
+  "totalShops": 14,
+  "totalVendors": 11,
+  "todaysRevenue": 0,
+  "totalOrders": 14,
+  "newCustomers": 10,
+  "todayTotalOrderByStatus": {
+    "pending": 0,
+    "processing": 0,
+    "complete": 0,
+    "cancelled": 0,
+    "refunded": 0,
+    "failed": 0,
+    "localFacility": 0,
+    "outForDelivery": 0
+  },
+  "weeklyTotalOrderByStatus": {
+    "pending": 0,
+    "processing": 1,
+    "complete": 1,
+    "cancelled": 0,
+    "refunded": 0,
+    "failed": 0,
+    "localFacility": 0,
+    "outForDelivery": 0
+  },
+  "monthlyTotalOrderByStatus": {
+    "pending": 0,
+    "processing": 4,
+    "complete": 9,
+    "cancelled": 0,
+    "refunded": 0,
+    "failed": 0,
+    "localFacility": 0,
+    "outForDelivery": 1
+  },
+  "yearlyTotalOrderByStatus": {
+    "pending": 1,
+    "processing": 4,
+    "complete": 14,
+    "cancelled": 0,
+    "refunded": 0,
+    "failed": 0,
+    "localFacility": 0,
+    "outForDelivery": 1
+  },
+  "totalYearSaleByMonth": [
+    {
+      "total": 4,
+      "month": "January"
+    },
+    {
+      "total": 5,
+      "month": "February"
+    },
+    {
+      "total": 7,
+      "month": "March"
+    },
+    {
+      "total": 5,
+      "month": "April"
+    },
+    {
+      "total": 7,
+      "month": "May"
+    },
+    {
+      "total": 9,
+      "month": "June"
+    },
+    {
+      "total": 8,
+      "month": "July"
+    },
+    {
+      "total": 9,
+      "month": "August"
+    },
+    {
+      "total": 0,
+      "month": "September"
+    },
+    {
+      "total": 0,
+      "month": "October"
+    },
+    {
+      "total": 0,
+      "month": "November"
+    },
+    {
+      "total": 0,
+      "month": "December"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Product Not as Described",
+    "slug": "product-not-as-described",
+    "language": "en",
+    "translated_languages": ["en"],
+    "__typename": "RefundReason"
+  },
+  {
+    "id": "2",
+    "name": "Wrong Item Shipped",
+    "slug": "wrong-item-shipped",
+    "language": "en",
+    "translated_languages": ["en"],
+    "__typename": "RefundReason"
+  },
+  {
+    "id": "3",
+    "name": "Damaged Item",
+    "slug": "damaged-item",
+    "language": "en",
+    "translated_languages": ["en"],
+    "__typename": "RefundReason"
+  },
+  {
+    "id": "4",
+    "name": "Cancelled Order",
+    "slug": "cancelled-order",
+    "language": "en",
+    "translated_languages": ["en"],
+    "__typename": "RefundReason"
+  },
+  {
+    "id": "5",
+    "name": "Late Delivery",
+    "slug": "late-delivery",
+    "language": "en",
+    "translated_languages": ["en"],
+    "__typename": "RefundReason"
+  },
+  {
+    "id": "6",
+    "name": "Item Not Needed",
+    "slug": "item-not-needed",
+    "language": "en",
+    "translated_languages": ["en"],
+    "__typename": "RefundReason"
+  },
+  {
+    "id": "7",
+    "name": "Changed Mind",
+    "slug": "changed-mind",
+    "language": "en",
+    "translated_languages": ["en"],
+    "__typename": "RefundReason"
+  },
+  {
+    "id": "8",
+    "name": "Others",
+    "slug": "others",
+    "language": "en",
+    "translated_languages": ["en"],
+    "__typename": "RefundReason"
+  }
+]

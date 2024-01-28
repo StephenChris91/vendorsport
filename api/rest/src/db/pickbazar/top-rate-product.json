@@ -1,0 +1,212 @@
+[
+  {
+    "id": 4,
+    "name": "Brussels Sprout",
+    "slug": "brussels-sprout",
+    "regular_price": 5,
+    "sale_price": 3,
+    "min_price": 5,
+    "max_price": 5,
+    "product_type": "simple",
+    "description": "The Brussels sprout is a member of the Gemmifera Group of cabbages, grown for its edible buds. The leaf vegetables are typically 1.5\u20134.0 cm in diameter and look like miniature cabbages. The Brussels sprout has long been popular in Brussels, Belgium, and may have gained its name there.",
+    "type_id": 1,
+    "type_slug": "grocery",
+    "total_rating": 15,
+    "rating_count": 3,
+    "actual_rating": 5,
+    "image": {
+      "id": "4",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/4/BrusselsSprouts.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/4/conversions/BrusselsSprouts-thumbnail.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Sweet Corn",
+    "slug": "sweet-corn",
+    "regular_price": 5,
+    "sale_price": 4,
+    "min_price": 5,
+    "max_price": 5,
+    "product_type": "simple",
+    "description": "Maize, also known as corn, is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10,000 years ago. The leafy stalk of the plant produces pollen inflorescences and separate ovuliferous inflorescences called ears that yield kernels or seeds, which are fruits.",
+    "type_id": 1,
+    "type_slug": "grocery",
+    "total_rating": 15,
+    "rating_count": 3,
+    "actual_rating": 5,
+    "image": {
+      "id": "7",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/7/Corn.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/7/conversions/Corn-thumbnail.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Cucumber",
+    "slug": "cucumber",
+    "regular_price": 2.5,
+    "sale_price": null,
+    "min_price": 2.5,
+    "max_price": 2.5,
+    "product_type": "simple",
+    "description": "Cucumber is a widely cultivated plant in the gourd family, Cucurbitaceae. It is a creeping vine that bears cucumiform fruits that are used as vegetables. There are three main varieties of cucumber: slicing, pickling, and seedless. Within these varieties, several cultivars have been created.",
+    "type_id": 1,
+    "type_slug": "grocery",
+    "total_rating": 15,
+    "rating_count": 3,
+    "actual_rating": 5,
+    "image": {
+      "id": "8",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/8/Cucumber.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/8/conversions/Cucumber-thumbnail.jpg"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Lime",
+    "slug": "lime",
+    "regular_price": 2,
+    "sale_price": 1.5,
+    "min_price": 2,
+    "max_price": 2,
+    "product_type": "simple",
+    "description": "The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.",
+    "type_id": 1,
+    "type_slug": "grocery",
+    "total_rating": 10,
+    "rating_count": 2,
+    "actual_rating": 5,
+    "image": {
+      "id": "13",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/13/GreenLimes.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/13/conversions/GreenLimes-thumbnail.jpg"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Peeled Baby Carrot",
+    "slug": "peeled-baby-carrot",
+    "regular_price": 2.5,
+    "sale_price": 2.2,
+    "min_price": 2.5,
+    "max_price": 2.5,
+    "product_type": "simple",
+    "description": "The carrot is a root vegetable, usually orange in colour, though purple, black, red, white, and yellow cultivars exist. They are a domesticated form of the wild carrot, Daucus carota, native to Europe and Southwestern Asia. The plant probably originated in Persia and was originally cultivated for its leaves and seeds.",
+    "type_id": 1,
+    "type_slug": "grocery",
+    "total_rating": 10,
+    "rating_count": 2,
+    "actual_rating": 5,
+    "image": {
+      "id": "17",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/17/Peeled-Carrots.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/17/conversions/Peeled-Carrots-thumbnail.jpg"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Cherry",
+    "slug": "cherry",
+    "regular_price": 2,
+    "sale_price": 1.8,
+    "min_price": 2,
+    "max_price": 2,
+    "product_type": "simple",
+    "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe. Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus",
+    "type_id": 1,
+    "type_slug": "grocery",
+    "total_rating": 10,
+    "rating_count": 2,
+    "actual_rating": 5,
+    "image": {
+      "id": "18",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/18/RedCherries.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/18/conversions/RedCherries-thumbnail.jpg"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Lemon",
+    "slug": "lemon",
+    "regular_price": 1.5,
+    "sale_price": 1.2,
+    "min_price": 1.5,
+    "max_price": 1.5,
+    "product_type": "simple",
+    "description": "The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.",
+    "type_id": 1,
+    "type_slug": "grocery",
+    "total_rating": 5,
+    "rating_count": 1,
+    "actual_rating": 5,
+    "image": {
+      "id": "21",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/21/Yellow-Limes.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/21/conversions/Yellow-Limes-thumbnail.jpg"
+    }
+  },
+  {
+    "id": 492,
+    "name": "Al Shams Pita Bread, 10 pcs",
+    "slug": "al-shams-pita-bread-10-pcs",
+    "regular_price": 2,
+    "sale_price": null,
+    "min_price": 2,
+    "max_price": 2,
+    "product_type": "simple",
+    "description": "Pita or pitta, is a family of yeast-leavened round flatbreads baked from wheat flour, common in the Mediterranean, Middle East, and neighboring areas",
+    "type_id": 2,
+    "type_slug": "bakery",
+    "total_rating": 5,
+    "rating_count": 1,
+    "actual_rating": 5,
+    "image": {
+      "id": "516",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/515/Pita_Bread-8_asbled.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/515/conversions/Pita_Bread-8_asbled-thumbnail.jpg"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Mix Vegetable Platter",
+    "slug": "mix-vegetable-platter",
+    "regular_price": 4,
+    "sale_price": 3.2,
+    "min_price": 4,
+    "max_price": 4,
+    "product_type": "simple",
+    "description": "Spinach (Spinacia oleracea) is a leafy green flowering plant native to central and western Asia. It is of the order Caryophyllales, family Amaranthaceae, subfamily Chenopodioideae. Its leaves are a common edible vegetable consumed either fresh.",
+    "type_id": 1,
+    "type_slug": "grocery",
+    "total_rating": 10,
+    "rating_count": 2,
+    "actual_rating": 5,
+    "image": {
+      "id": "20",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/20/VeggiePlatter.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/20/conversions/VeggiePlatter-thumbnail.jpg"
+    }
+  },
+  {
+    "id": 468,
+    "name": "Wonderful Pomegranate Juice, 300 ml",
+    "slug": "wonderful-pomegranate-juice-300-ml",
+    "regular_price": 3,
+    "sale_price": 2.4,
+    "min_price": 3,
+    "max_price": 3,
+    "product_type": "simple",
+    "description": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice",
+    "type_id": 2,
+    "type_slug": "bakery",
+    "total_rating": 5,
+    "rating_count": 1,
+    "actual_rating": 5,
+    "image": {
+      "id": "491",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/490/Juice5_bz8od4.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/490/conversions/Juice5_bz8od4-thumbnail.jpg"
+    }
+  }
+]

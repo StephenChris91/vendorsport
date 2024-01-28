@@ -1,0 +1,62 @@
+[
+  {
+      "category_id": 7,
+      "category_name": "Snacks",
+      "shop_name": "Grocery Shop",
+      "product_count": 73
+  },
+  {
+      "category_id": 122,
+      "category_name": "Fruits",
+      "shop_name": "Grocery Shop",
+      "product_count": 60
+  },
+  {
+      "category_id": 125,
+      "category_name": "Bakery",
+      "shop_name": "Grocery Shop",
+      "product_count": 59
+  },
+  {
+      "category_id": 118,
+      "category_name": "Snacks",
+      "shop_name": "Grocery Shop",
+      "product_count": 54
+  },
+  {
+      "category_id": 117,
+      "category_name": "Vegetables",
+      "shop_name": "Grocery Shop",
+      "product_count": 47
+  },
+  {
+      "category_id": 121,
+      "category_name": "Meat",
+      "shop_name": "Grocery Shop",
+      "product_count": 38
+  },
+  {
+      "category_id": 72,
+      "category_name": "Outer Wear",
+      "shop_name": "Clothing Shop",
+      "product_count": 33
+  },
+  {
+      "category_id": 124,
+      "category_name": "Dairy & Eggs",
+      "shop_name": "Grocery Shop",
+      "product_count": 28
+  },
+  {
+      "category_id": 43,
+      "category_name": "Health & Beauty",
+      "shop_name": "Grocery Shop",
+      "product_count": 26
+  },
+  {
+      "category_id": 123,
+      "category_name": "Fish",
+      "shop_name": "Grocery Shop",
+      "product_count": 26
+  }
+]

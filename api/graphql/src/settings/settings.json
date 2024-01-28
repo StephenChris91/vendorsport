@@ -1,0 +1,221 @@
+{
+  "id": 1,
+  "options": {
+    "siteTitle": "Pickbazar",
+    "siteSubtitle": "Your next ecommerce",
+    "currency": "USD",
+    "currencyOptions": {
+      "formation": "en-US",
+      "fractions": 2
+    },
+    "useOtp": false,
+    "useGoogleMap": true,
+    "useEnableGateway": true,
+    "useCashOnDelivery": true,
+    "paymentGateway": [
+      {
+        "name": "stripe",
+        "title": "Stripe"
+      },
+      {
+        "name": "paypal",
+        "title": "Paypal"
+      }
+    ],
+    "defaultPaymentGateway": "Stripe",
+    "useMustVerifyEmail": false,
+    "isProductReview": false,
+    "contactDetails": {
+      "socials": [
+        {
+          "icon": "FacebookIcon",
+          "url": "https://www.facebook.com"
+        },
+        {
+          "icon": "TwitterIcon",
+          "url": "https://twitter.com/home"
+        },
+        {
+          "icon": "InstagramIcon",
+          "url": "https://www.instagram.com"
+        }
+      ],
+      "contact": "+129290122122",
+      "location": {
+        "lat": 42.9585979,
+        "lng": -76.9087202,
+        "city": null,
+        "state": "NY",
+        "country": "United States",
+        "zip": null,
+        "formattedAddress": "NY State Thruway, New York, USA"
+      },
+      "website": "https://redq.io",
+      "emailAddress": "demo@demo.com"
+    },
+    "minimumOrderAmount": 0,
+    "maxShopDistance": 1000,
+    "currencyToWalletRatio": 3,
+    "signupPoints": 100,
+    "maximumQuestionLimit": 5,
+    "deliveryTime": [
+      {
+        "title": "Express Delivery",
+        "description": "90 min express delivery"
+      },
+      {
+        "title": "Morning",
+        "description": "8.00 AM - 11.00 AM"
+      },
+      {
+        "title": "Noon",
+        "description": "11.00 AM - 2.00 PM"
+      },
+      {
+        "title": "Afternoon",
+        "description": "2.00 PM - 5.00 PM"
+      },
+      {
+        "title": "Evening",
+        "description": "5.00 PM - 8.00 PM"
+      }
+    ],
+    "logo": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2295/conversions/Logo-new-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2295/Logo-new.png",
+      "id": "2298"
+    },
+    "collapseLogo": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2283/conversions/Pickbazar-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2283/Pickbazar.png",
+      "id": "2286"
+    },
+    "taxClass": "1",
+    "shippingClass": "1",
+    "freeShipping": false,
+    "freeShippingAmount": 0,
+    "seo": {
+      "metaTitle": null,
+      "metaDescription": null,
+      "metaTags": null,
+      "canonicalUrl": null,
+      "ogTitle": null,
+      "ogDescription": null,
+      "ogImage": null,
+      "twitterHandle": null,
+      "twitterCardType": null
+    },
+    "guestCheckout": true,
+    "smsEvent": {
+      "customer": {
+        "statusChangeOrder": false,
+        "refundOrder": false,
+        "paymentOrder": false,
+        "answerQuestion": null
+      },
+      "vendor": {
+        "statusChangeOrder": false,
+        "refundOrder": false,
+        "paymentOrder": false,
+        "createReview": null,
+        "createQuestion": null
+      },
+      "admin": {
+        "statusChangeOrder": false,
+        "refundOrder": false,
+        "paymentOrder": false
+      }
+    },
+    "emailEvent": {
+      "customer": {
+        "statusChangeOrder": false,
+        "refundOrder": false,
+        "paymentOrder": false,
+        "answerQuestion": false
+      },
+      "vendor": {
+        "statusChangeOrder": false,
+        "refundOrder": false,
+        "paymentOrder": false,
+        "createReview": false,
+        "createQuestion": false
+      },
+      "admin": {
+        "statusChangeOrder": false,
+        "refundOrder": false,
+        "paymentOrder": false
+      }
+    },
+    "server_info": {
+      "upload_max_filesize": 2048,
+      "memory_limit": "128M",
+      "max_execution_time": "30",
+      "max_input_time": "-1",
+      "post_max_size": 8192
+    },
+    "useAi": true,
+    "enableTerms": true,
+    "defaultAi": "openai",
+    "StripeCardOnly": false,
+    "pushNotification": {
+      "all": {
+        "order": true,
+        "message": true,
+        "storeNotice": true
+      }
+    },
+    "siteLink": "https://pickbazar.redq.io",
+    "copyrightText": "Copyright \u00a9 REDQ. All rights reserved worldwide.",
+    "externalText": "REDQ",
+    "externalLink": "https://redq.io",
+    "enableCoupons": true,
+    "isUnderMaintenance": false,
+    "maintenance": {
+      "title": "Site is under Maintenance",
+      "buttonTitleOne": "Notify Me",
+      "newsLetterTitle": "Subscribe Newsletter",
+      "buttonTitleTwo": "Contact Us",
+      "contactUsTitle": "Contact Us",
+      "aboutUsTitle": "About Us",
+      "isOverlayColor": false,
+      "overlayColor": null,
+      "overlayColorRange": null,
+      "description": "We are currently undergoing essential maintenance to elevate your browsing experience. Our team is working diligently to implement improvements that will bring you an even more seamless and enjoyable interaction with our site. During this period, you may experience temporary inconveniences. We appreciate your patience and understanding. Thank you for being a part of our community, and we look forward to unveiling the enhanced features and content soon.",
+      "newsLetterDescription": "Stay in the loop! Subscribe to our newsletter for exclusive deals and the latest trends delivered straight to your inbox. Elevate your shopping experience with insider access.",
+      "aboutUsDescription": "Welcome to Pickbazar, your go-to destination for curated excellence. Discover a fusion of style, quality, and affordability in every click. Join our community and elevate your shopping experience with us!",
+      "image": {
+        "id": 1794,
+        "file_name": "background.png",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1792/background.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1792/conversions/background-thumbnail.jpg"
+      },
+      "start": "2023-12-12T14:57:02.064533Z",
+      "until": "2023-12-12T14:57:02.064545Z"
+    },
+    "isPromoPopUp": true,
+    "promoPopup": {
+      "image": {
+        "id": 1793,
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1791/pickbazar02.png",
+        "file_name": "pickbazar02.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1791/conversions/pickbazar02-thumbnail.jpg"
+      },
+      "title": "Get 25% Discount",
+      "popUpDelay": 5000,
+      "description": "Subscribe to the mailing list to receive updates on new arrivals, special offers and our promotions.",
+      "popUpNotShow": {
+        "title": "Don't show this popup again",
+        "popUpExpiredIn": 7
+      },
+      "isPopUpNotShow": true,
+      "popUpExpiredIn": 1
+    },
+    "app_settings": {
+      "last_checking_time": "2023-11-16T05:25:32.618400Z",
+      "trust": true
+    }
+  },
+  "language": "en",
+  "created_at": "2023-11-16T04:12:45.000000Z",
+  "updated_at": "2023-11-16T05:25:32.000000Z"
+}

@@ -1,0 +1,20 @@
+[
+  {
+      "id": 2,
+      "name": "local",
+      "amount": 500,
+      "is_global": true,
+      "type": "fixed",
+      "created_at": "2023-11-16T06:10:49.000000Z",
+      "updated_at": "2023-11-16T06:10:49.000000Z"
+  },
+  {
+      "id": 1,
+      "name": "Global",
+      "amount": 50,
+      "is_global": false,
+      "type": "fixed",
+      "created_at": "2021-03-25T13:27:49.000000Z",
+      "updated_at": "2021-03-25T13:27:49.000000Z"
+  }
+]

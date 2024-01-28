@@ -1,0 +1,162 @@
+[
+  {
+    "id": 62,
+    "name": "Shake",
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "shake",
+    "details": null,
+    "image": [],
+    "icon": null,
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "slug": "medicine",
+      "logo": null
+    }
+  },
+  {
+    "id": 61,
+    "name": "Plant Based Protein",
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "plant-based-protein",
+    "details": null,
+    "image": [],
+    "icon": null,
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "slug": "medicine",
+      "logo": null
+    }
+  },
+  {
+    "id": 60,
+    "name": "Health & Wellness",
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "health-&-wellness",
+    "details": null,
+    "image": [],
+    "icon": null,
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "slug": "medicine",
+      "logo": null
+    }
+  },
+  {
+    "id": 59,
+    "name": "Injury Management",
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "injury-management",
+    "details": null,
+    "image": [],
+    "icon": null,
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "slug": "medicine",
+      "logo": null
+    }
+  },
+  {
+    "id": 58,
+    "name": "Safety Essentials",
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "safety-essentials",
+    "details": null,
+    "image": [],
+    "icon": null,
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "slug": "medicine",
+      "logo": null
+    }
+  },
+  {
+    "id": 57,
+    "name": "Safe",
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "safe",
+    "details": null,
+    "image": [],
+    "icon": null,
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "slug": "medicine",
+      "logo": null
+    }
+  },
+  {
+    "id": 56,
+    "name": "Safety Certified",
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "safety-certified",
+    "details": null,
+    "image": [],
+    "icon": null,
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "slug": "medicine",
+      "logo": null
+    }
+  },
+  {
+    "id": 55,
+    "name": "Baby Growth",
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "baby-growth",
+    "details": null,
+    "image": [],
+    "icon": null,
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "slug": "medicine",
+      "logo": null
+    }
+  },
+  {
+    "id": 54,
+    "name": "Baby Milk",
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "baby-milk",
+    "details": null,
+    "image": [],
+    "icon": null,
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "slug": "medicine",
+      "logo": null
+    }
+  },
+  {
+    "id": 53,
+    "name": "Infant Formula",
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "infant-formula",
+    "details": null,
+    "image": [],
+    "icon": null,
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "slug": "medicine",
+      "logo": null
+    }
+  }
+]

@@ -1,0 +1,383 @@
+[
+  {
+    "id": 3,
+    "priority": "low",
+    "notice": "Maintance !!!",
+    "description": "Today from 12:00 AM to 3:00 AM Our website will run at minimal Resources. For that reason, We suggest you avoid transactions.",
+    "effective_from": "2023-03-15 18:00:00",
+    "expired_at": "2023-03-16 18:00:00",
+    "type": "all_vendor",
+    "created_by": 6,
+    "updated_by": null,
+    "created_at": "2023-03-16T10:04:24.000000Z",
+    "updated_at": "2023-03-16T10:04:24.000000Z",
+    "deleted_at": null,
+    "is_read": true,
+    "creator_role": "Super admin",
+    "creator": {
+      "id": 6,
+      "name": "admin",
+      "email": "admin@demo.com",
+      "email_verified_at": null,
+      "created_at": "2023-03-16T09:37:20.000000Z",
+      "updated_at": "2023-03-16T09:37:20.000000Z",
+      "is_active": 1,
+      "shop_id": null,
+      "permissions": [
+        {
+          "id": 1,
+          "name": "super_admin",
+          "guard_name": "api",
+          "created_at": "2021-06-27T04:13:00.000000Z",
+          "updated_at": "2021-06-27T04:13:00.000000Z",
+          "pivot": {
+            "model_id": 6,
+            "permission_id": 1,
+            "model_type": "Marvel\\Database\\Models\\User"
+          }
+        },
+        {
+          "id": 2,
+          "name": "customer",
+          "guard_name": "api",
+          "created_at": "2021-06-27T04:13:00.000000Z",
+          "updated_at": "2021-06-27T04:13:00.000000Z",
+          "pivot": {
+            "model_id": 6,
+            "permission_id": 2,
+            "model_type": "Marvel\\Database\\Models\\User"
+          }
+        },
+        {
+          "id": 3,
+          "name": "store_owner",
+          "guard_name": "api",
+          "created_at": "2021-06-27T04:13:00.000000Z",
+          "updated_at": "2021-06-27T04:13:00.000000Z",
+          "pivot": {
+            "model_id": 6,
+            "permission_id": 3,
+            "model_type": "Marvel\\Database\\Models\\User"
+          }
+        }
+      ]
+    },
+    "users": [
+      {
+        "id": 6,
+        "name": "admin",
+        "email": "admin@demo.com",
+        "email_verified_at": null,
+        "created_at": "2023-03-16T09:37:20.000000Z",
+        "updated_at": "2023-03-16T09:37:20.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 3,
+          "user_id": 6
+        }
+      },
+      {
+        "id": 1,
+        "name": "Store Owner",
+        "email": "store_owner@demo.com",
+        "email_verified_at": null,
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 3,
+          "user_id": 1
+        }
+      }
+    ],
+    "shops": [],
+    "read_status": [
+      {
+        "id": 6,
+        "name": "admin",
+        "email": "admin@demo.com",
+        "email_verified_at": null,
+        "created_at": "2023-03-16T09:37:20.000000Z",
+        "updated_at": "2023-03-16T09:37:20.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 3,
+          "user_id": 6,
+          "is_read": 1
+        }
+      },
+      {
+        "id": 1,
+        "name": "Store Owner",
+        "email": "store_owner@demo.com",
+        "email_verified_at": null,
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 3,
+          "user_id": 1,
+          "is_read": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "priority": "medium",
+    "notice": "Sorry for Delivery Delay !!!",
+    "description": "We are very sorry for the temporary disturbance. Currently, we are facing some issues regarding CASH_ON_DELIVERY Service.",
+    "effective_from": "2023-03-15 12:00:00",
+    "expired_at": "2023-03-30 12:00:00",
+    "type": "all_vendor",
+    "created_by": 6,
+    "updated_by": 6,
+    "created_at": "2023-03-16T09:56:57.000000Z",
+    "updated_at": "2023-03-16T09:57:15.000000Z",
+    "deleted_at": null,
+    "is_read": true,
+    "creator_role": "Super admin",
+    "creator": {
+      "id": 6,
+      "name": "admin",
+      "email": "admin@demo.com",
+      "email_verified_at": null,
+      "created_at": "2023-03-16T09:37:20.000000Z",
+      "updated_at": "2023-03-16T09:37:20.000000Z",
+      "is_active": 1,
+      "shop_id": null,
+      "permissions": [
+        {
+          "id": 1,
+          "name": "super_admin",
+          "guard_name": "api",
+          "created_at": "2021-06-27T04:13:00.000000Z",
+          "updated_at": "2021-06-27T04:13:00.000000Z",
+          "pivot": {
+            "model_id": 6,
+            "permission_id": 1,
+            "model_type": "Marvel\\Database\\Models\\User"
+          }
+        },
+        {
+          "id": 2,
+          "name": "customer",
+          "guard_name": "api",
+          "created_at": "2021-06-27T04:13:00.000000Z",
+          "updated_at": "2021-06-27T04:13:00.000000Z",
+          "pivot": {
+            "model_id": 6,
+            "permission_id": 2,
+            "model_type": "Marvel\\Database\\Models\\User"
+          }
+        },
+        {
+          "id": 3,
+          "name": "store_owner",
+          "guard_name": "api",
+          "created_at": "2021-06-27T04:13:00.000000Z",
+          "updated_at": "2021-06-27T04:13:00.000000Z",
+          "pivot": {
+            "model_id": 6,
+            "permission_id": 3,
+            "model_type": "Marvel\\Database\\Models\\User"
+          }
+        }
+      ]
+    },
+    "users": [
+      {
+        "id": 6,
+        "name": "admin",
+        "email": "admin@demo.com",
+        "email_verified_at": null,
+        "created_at": "2023-03-16T09:37:20.000000Z",
+        "updated_at": "2023-03-16T09:37:20.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 2,
+          "user_id": 6
+        }
+      },
+      {
+        "id": 1,
+        "name": "Store Owner",
+        "email": "store_owner@demo.com",
+        "email_verified_at": null,
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 2,
+          "user_id": 1
+        }
+      }
+    ],
+    "shops": [],
+    "read_status": [
+      {
+        "id": 6,
+        "name": "admin",
+        "email": "admin@demo.com",
+        "email_verified_at": null,
+        "created_at": "2023-03-16T09:37:20.000000Z",
+        "updated_at": "2023-03-16T09:37:20.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 2,
+          "user_id": 6,
+          "is_read": 1
+        }
+      },
+      {
+        "id": 1,
+        "name": "Store Owner",
+        "email": "store_owner@demo.com",
+        "email_verified_at": null,
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 2,
+          "user_id": 1,
+          "is_read": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "priority": "high",
+    "notice": "Big Sale !!!",
+    "description": "From 15, April 2023 to 30, April 2023 Every Vendor will 0.5% commission every $1000 Sale",
+    "effective_from": "2023-03-15 18:00:00",
+    "expired_at": "2023-04-29 18:00:00",
+    "type": "all_vendor",
+    "created_by": 6,
+    "updated_by": null,
+    "created_at": "2023-03-16T09:54:29.000000Z",
+    "updated_at": "2023-03-16T09:54:29.000000Z",
+    "deleted_at": null,
+    "is_read": true,
+    "creator_role": "Super admin",
+    "creator": {
+      "id": 6,
+      "name": "admin",
+      "email": "admin@demo.com",
+      "email_verified_at": null,
+      "created_at": "2023-03-16T09:37:20.000000Z",
+      "updated_at": "2023-03-16T09:37:20.000000Z",
+      "is_active": 1,
+      "shop_id": null,
+      "permissions": [
+        {
+          "id": 1,
+          "name": "super_admin",
+          "guard_name": "api",
+          "created_at": "2021-06-27T04:13:00.000000Z",
+          "updated_at": "2021-06-27T04:13:00.000000Z",
+          "pivot": {
+            "model_id": 6,
+            "permission_id": 1,
+            "model_type": "Marvel\\Database\\Models\\User"
+          }
+        },
+        {
+          "id": 2,
+          "name": "customer",
+          "guard_name": "api",
+          "created_at": "2021-06-27T04:13:00.000000Z",
+          "updated_at": "2021-06-27T04:13:00.000000Z",
+          "pivot": {
+            "model_id": 6,
+            "permission_id": 2,
+            "model_type": "Marvel\\Database\\Models\\User"
+          }
+        },
+        {
+          "id": 3,
+          "name": "store_owner",
+          "guard_name": "api",
+          "created_at": "2021-06-27T04:13:00.000000Z",
+          "updated_at": "2021-06-27T04:13:00.000000Z",
+          "pivot": {
+            "model_id": 6,
+            "permission_id": 3,
+            "model_type": "Marvel\\Database\\Models\\User"
+          }
+        }
+      ]
+    },
+    "users": [
+      {
+        "id": 6,
+        "name": "admin",
+        "email": "admin@demo.com",
+        "email_verified_at": null,
+        "created_at": "2023-03-16T09:37:20.000000Z",
+        "updated_at": "2023-03-16T09:37:20.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 1,
+          "user_id": 6
+        }
+      },
+      {
+        "id": 1,
+        "name": "Store Owner",
+        "email": "store_owner@demo.com",
+        "email_verified_at": null,
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 1,
+          "user_id": 1
+        }
+      }
+    ],
+    "shops": [],
+    "read_status": [
+      {
+        "id": 6,
+        "name": "admin",
+        "email": "admin@demo.com",
+        "email_verified_at": null,
+        "created_at": "2023-03-16T09:37:20.000000Z",
+        "updated_at": "2023-03-16T09:37:20.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 1,
+          "user_id": 6,
+          "is_read": 1
+        }
+      },
+      {
+        "id": 1,
+        "name": "Store Owner",
+        "email": "store_owner@demo.com",
+        "email_verified_at": null,
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "pivot": {
+          "store_notice_id": 1,
+          "user_id": 1,
+          "is_read": 0
+        }
+      }
+    ]
+  }
+]

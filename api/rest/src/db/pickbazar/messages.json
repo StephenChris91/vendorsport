@@ -1,0 +1,457 @@
+[
+  {
+    "id": 5,
+    "conversation_id": 1,
+    "user_id": 6,
+    "body": "New test",
+    "created_at": "2023-03-21T03:18:35.000000Z",
+    "updated_at": "2023-03-21T03:18:35.000000Z",
+    "conversation": {
+      "id": 1,
+      "user_id": 6,
+      "shop_id": 6,
+      "created_at": "2023-03-20T07:08:39.000000Z",
+      "updated_at": "2023-03-21T03:18:35.000000Z",
+      "latest_message": {
+        "id": 5,
+        "conversation_id": 1,
+        "user_id": 6,
+        "body": "New test",
+        "created_at": "2023-03-21T03:18:35.000000Z",
+        "updated_at": "2023-03-21T03:18:35.000000Z"
+      },
+      "unseen": 0,
+      "shop": {
+        "id": "7",
+        "name": "Books Shop",
+        "slug": "books-shop",
+        "owner_id": "1",
+        "owner": {
+          "name": "Store Owner",
+          "email": "store_owner@demo.com",
+          "profile": {
+            "contact": "12365141641631",
+            "__typename": "Profile"
+          },
+          "__typename": "User"
+        },
+        "staffs": [],
+        "description": "This is the book shop. All the publications sells their book under this book shop",
+        "logo": {
+          "id": "1613",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/conversions/Publisher-logo-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/Publisher-logo.png",
+          "__typename": "Attachment"
+        },
+        "cover_image": {
+          "id": "1374",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/conversions/Cover-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/Cover.png",
+          "__typename": "Attachment"
+        },
+        "orders_count": 2,
+        "products_count": 67,
+        "is_active": true,
+        "balance": {
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "account": "123456789",
+            "name": "book shop",
+            "bank": "book bank",
+            "email": "admin@example.com",
+            "__typename": "PaymentInfo"
+          },
+          "__typename": "Balance"
+        },
+        "address": {
+          "street_address": "44444",
+          "country": "Switzerland",
+          "city": "zurich",
+          "state": "California",
+          "zip": "8021",
+          "__typename": "UserAddress"
+        },
+        "created_at": "2021-03-08T10:26:13.000000Z",
+        "__typename": "Shop"
+      },
+      "user": {
+        "id": 6,
+        "name": "admin",
+        "email": "admin@demo.com",
+        "email_verified_at": null,
+        "created_at": "2023-03-17T11:14:29.000000Z",
+        "updated_at": "2023-03-17T11:14:29.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "profile": null
+      }
+    }
+  },
+  {
+    "id": 4,
+    "conversation_id": 1,
+    "user_id": 1,
+    "body": "Hi",
+    "created_at": "2023-03-21T03:16:41.000000Z",
+    "updated_at": "2023-03-21T03:16:41.000000Z",
+    "conversation": {
+      "id": 1,
+      "user_id": 6,
+      "shop_id": 6,
+      "created_at": "2023-03-20T07:08:39.000000Z",
+      "updated_at": "2023-03-21T03:18:35.000000Z",
+      "latest_message": {
+        "id": 5,
+        "conversation_id": 1,
+        "user_id": 6,
+        "body": "New test",
+        "created_at": "2023-03-21T03:18:35.000000Z",
+        "updated_at": "2023-03-21T03:18:35.000000Z"
+      },
+      "unseen": 0,
+      "shop": {
+        "id": "7",
+        "name": "Books Shop",
+        "slug": "books-shop",
+        "owner_id": "1",
+        "owner": {
+          "name": "Store Owner",
+          "email": "store_owner@demo.com",
+          "profile": {
+            "contact": "12365141641631",
+            "__typename": "Profile"
+          },
+          "__typename": "User"
+        },
+        "staffs": [],
+        "description": "This is the book shop. All the publications sells their book under this book shop",
+        "logo": {
+          "id": "1613",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/conversions/Publisher-logo-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/Publisher-logo.png",
+          "__typename": "Attachment"
+        },
+        "cover_image": {
+          "id": "1374",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/conversions/Cover-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/Cover.png",
+          "__typename": "Attachment"
+        },
+        "orders_count": 2,
+        "products_count": 67,
+        "is_active": true,
+        "balance": {
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "account": "123456789",
+            "name": "book shop",
+            "bank": "book bank",
+            "email": "admin@example.com",
+            "__typename": "PaymentInfo"
+          },
+          "__typename": "Balance"
+        },
+        "address": {
+          "street_address": "44444",
+          "country": "Switzerland",
+          "city": "zurich",
+          "state": "California",
+          "zip": "8021",
+          "__typename": "UserAddress"
+        },
+        "created_at": "2021-03-08T10:26:13.000000Z",
+        "__typename": "Shop"
+      },
+      "user": {
+        "id": 6,
+        "name": "admin",
+        "email": "admin@demo.com",
+        "email_verified_at": null,
+        "created_at": "2023-03-17T11:14:29.000000Z",
+        "updated_at": "2023-03-17T11:14:29.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "profile": null
+      }
+    }
+  },
+  {
+    "id": 3,
+    "conversation_id": 1,
+    "user_id": 6,
+    "body": "Hi",
+    "created_at": "2023-03-21T03:15:31.000000Z",
+    "updated_at": "2023-03-21T03:15:31.000000Z",
+    "conversation": {
+      "id": 1,
+      "user_id": 6,
+      "shop_id": 6,
+      "created_at": "2023-03-20T07:08:39.000000Z",
+      "updated_at": "2023-03-21T03:18:35.000000Z",
+      "latest_message": {
+        "id": 5,
+        "conversation_id": 1,
+        "user_id": 6,
+        "body": "New test",
+        "created_at": "2023-03-21T03:18:35.000000Z",
+        "updated_at": "2023-03-21T03:18:35.000000Z"
+      },
+      "unseen": 0,
+      "shop": {
+        "id": "7",
+        "name": "Books Shop",
+        "slug": "books-shop",
+        "owner_id": "1",
+        "owner": {
+          "name": "Store Owner",
+          "email": "store_owner@demo.com",
+          "profile": {
+            "contact": "12365141641631",
+            "__typename": "Profile"
+          },
+          "__typename": "User"
+        },
+        "staffs": [],
+        "description": "This is the book shop. All the publications sells their book under this book shop",
+        "logo": {
+          "id": "1613",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/conversions/Publisher-logo-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/Publisher-logo.png",
+          "__typename": "Attachment"
+        },
+        "cover_image": {
+          "id": "1374",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/conversions/Cover-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/Cover.png",
+          "__typename": "Attachment"
+        },
+        "orders_count": 2,
+        "products_count": 67,
+        "is_active": true,
+        "balance": {
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "account": "123456789",
+            "name": "book shop",
+            "bank": "book bank",
+            "email": "admin@example.com",
+            "__typename": "PaymentInfo"
+          },
+          "__typename": "Balance"
+        },
+        "address": {
+          "street_address": "44444",
+          "country": "Switzerland",
+          "city": "zurich",
+          "state": "California",
+          "zip": "8021",
+          "__typename": "UserAddress"
+        },
+        "created_at": "2021-03-08T10:26:13.000000Z",
+        "__typename": "Shop"
+      },
+      "user": {
+        "id": 6,
+        "name": "admin",
+        "email": "admin@demo.com",
+        "email_verified_at": null,
+        "created_at": "2023-03-17T11:14:29.000000Z",
+        "updated_at": "2023-03-17T11:14:29.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "profile": null
+      }
+    }
+  },
+  {
+    "id": 2,
+    "conversation_id": 1,
+    "user_id": 6,
+    "body": "hello",
+    "created_at": "2023-03-20T07:08:52.000000Z",
+    "updated_at": "2023-03-20T07:08:52.000000Z",
+    "conversation": {
+      "id": 1,
+      "user_id": 6,
+      "shop_id": 6,
+      "created_at": "2023-03-20T07:08:39.000000Z",
+      "updated_at": "2023-03-21T03:18:35.000000Z",
+      "latest_message": {
+        "id": 5,
+        "conversation_id": 1,
+        "user_id": 6,
+        "body": "New test",
+        "created_at": "2023-03-21T03:18:35.000000Z",
+        "updated_at": "2023-03-21T03:18:35.000000Z"
+      },
+      "unseen": 0,
+      "shop": {
+        "id": "7",
+        "name": "Books Shop",
+        "slug": "books-shop",
+        "owner_id": "1",
+        "owner": {
+          "name": "Store Owner",
+          "email": "store_owner@demo.com",
+          "profile": {
+            "contact": "12365141641631",
+            "__typename": "Profile"
+          },
+          "__typename": "User"
+        },
+        "staffs": [],
+        "description": "This is the book shop. All the publications sells their book under this book shop",
+        "logo": {
+          "id": "1613",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/conversions/Publisher-logo-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/Publisher-logo.png",
+          "__typename": "Attachment"
+        },
+        "cover_image": {
+          "id": "1374",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/conversions/Cover-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/Cover.png",
+          "__typename": "Attachment"
+        },
+        "orders_count": 2,
+        "products_count": 67,
+        "is_active": true,
+        "balance": {
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "account": "123456789",
+            "name": "book shop",
+            "bank": "book bank",
+            "email": "admin@example.com",
+            "__typename": "PaymentInfo"
+          },
+          "__typename": "Balance"
+        },
+        "address": {
+          "street_address": "44444",
+          "country": "Switzerland",
+          "city": "zurich",
+          "state": "California",
+          "zip": "8021",
+          "__typename": "UserAddress"
+        },
+        "created_at": "2021-03-08T10:26:13.000000Z",
+        "__typename": "Shop"
+      },
+      "user": {
+        "id": 6,
+        "name": "admin",
+        "email": "admin@demo.com",
+        "email_verified_at": null,
+        "created_at": "2023-03-17T11:14:29.000000Z",
+        "updated_at": "2023-03-17T11:14:29.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "profile": null
+      }
+    }
+  },
+  {
+    "id": 1,
+    "conversation_id": 1,
+    "user_id": 6,
+    "body": "hi",
+    "created_at": "2023-03-20T07:08:47.000000Z",
+    "updated_at": "2023-03-20T07:08:47.000000Z",
+    "conversation": {
+      "id": 1,
+      "user_id": 6,
+      "shop_id": 6,
+      "created_at": "2023-03-20T07:08:39.000000Z",
+      "updated_at": "2023-03-21T03:18:35.000000Z",
+      "latest_message": {
+        "id": 5,
+        "conversation_id": 1,
+        "user_id": 6,
+        "body": "New test",
+        "created_at": "2023-03-21T03:18:35.000000Z",
+        "updated_at": "2023-03-21T03:18:35.000000Z"
+      },
+      "unseen": 0,
+      "shop": {
+        "id": "7",
+        "name": "Books Shop",
+        "slug": "books-shop",
+        "owner_id": "1",
+        "owner": {
+          "name": "Store Owner",
+          "email": "store_owner@demo.com",
+          "profile": {
+            "contact": "12365141641631",
+            "__typename": "Profile"
+          },
+          "__typename": "User"
+        },
+        "staffs": [],
+        "description": "This is the book shop. All the publications sells their book under this book shop",
+        "logo": {
+          "id": "1613",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/conversions/Publisher-logo-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/Publisher-logo.png",
+          "__typename": "Attachment"
+        },
+        "cover_image": {
+          "id": "1374",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/conversions/Cover-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/Cover.png",
+          "__typename": "Attachment"
+        },
+        "orders_count": 2,
+        "products_count": 67,
+        "is_active": true,
+        "balance": {
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "account": "123456789",
+            "name": "book shop",
+            "bank": "book bank",
+            "email": "admin@example.com",
+            "__typename": "PaymentInfo"
+          },
+          "__typename": "Balance"
+        },
+        "address": {
+          "street_address": "44444",
+          "country": "Switzerland",
+          "city": "zurich",
+          "state": "California",
+          "zip": "8021",
+          "__typename": "UserAddress"
+        },
+        "created_at": "2021-03-08T10:26:13.000000Z",
+        "__typename": "Shop"
+      },
+      "user": {
+        "id": 6,
+        "name": "admin",
+        "email": "admin@demo.com",
+        "email_verified_at": null,
+        "created_at": "2023-03-17T11:14:29.000000Z",
+        "updated_at": "2023-03-17T11:14:29.000000Z",
+        "is_active": 1,
+        "shop_id": null,
+        "profile": null
+      }
+    }
+  }
+]

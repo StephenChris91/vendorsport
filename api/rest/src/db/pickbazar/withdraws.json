@@ -1,0 +1,134 @@
+[
+  {
+    "id": 2,
+    "shop_id": 3,
+    "amount": 10,
+    "payment_method": "cash",
+    "status": "pending",
+    "details": "iojiojio",
+    "note": "joijo",
+    "deleted_at": null,
+    "created_at": "2023-11-07T23:13:08.000000Z",
+    "updated_at": "2023-11-07T23:13:08.000000Z",
+    "shop": {
+      "id": 3,
+      "owner_id": 1,
+      "name": "Bags Shop",
+      "slug": "bags-shop",
+      "description": "The Bag shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+      "cover_image": {
+        "id": "889",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/887/Untitled-1-%281%29.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/887/conversions/Untitled-1-%281%29-thumbnail.jpg"
+      },
+      "logo": {
+        "id": "888",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/886/Backpack.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/886/conversions/Backpack-thumbnail.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Michigan",
+        "state": "Alabama",
+        "zip": "35203",
+        "street_address": "1740  Bedford Street"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "212901921221",
+        "website": "https://redq.io",
+        "socials": [
+          {
+            "icon": "FacebookIcon",
+            "url": "https://www.facebook.com/"
+          },
+          {
+            "icon": "InstagramIcon",
+            "url": "https://www.instagram.com/"
+          }
+        ],
+        "location": {
+          "lat": -37.1374024,
+          "lng": 174.9685924,
+          "zip": "2579",
+          "city": "Ramarama",
+          "state": "Auckland",
+          "country": "New Zealand",
+          "formattedAddress": "Waharau Lane, Ramarama 2579, New Zealand"
+        }
+      },
+      "notifications": null,
+      "created_at": "2021-06-27T03:47:23.000000Z",
+      "updated_at": "2023-10-19T06:52:14.000000Z"
+    }
+  },
+  {
+    "id": 1,
+    "shop_id": 3,
+    "amount": 300,
+    "payment_method": "Bkash",
+    "status": "approved",
+    "details": "01679373064\nBkash Personal",
+    "note": "Kinldy Send My Balance before next week.",
+    "deleted_at": null,
+    "created_at": "2023-11-06T17:49:43.000000Z",
+    "updated_at": "2023-11-06T17:51:11.000000Z",
+    "shop": {
+      "id": 3,
+      "owner_id": 1,
+      "name": "Bags Shop",
+      "slug": "bags-shop",
+      "description": "The Bag shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+      "cover_image": {
+        "id": "889",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/887/Untitled-1-%281%29.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/887/conversions/Untitled-1-%281%29-thumbnail.jpg"
+      },
+      "logo": {
+        "id": "888",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/886/Backpack.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/886/conversions/Backpack-thumbnail.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Michigan",
+        "state": "Alabama",
+        "zip": "35203",
+        "street_address": "1740  Bedford Street"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "212901921221",
+        "website": "https://redq.io",
+        "socials": [
+          {
+            "icon": "FacebookIcon",
+            "url": "https://www.facebook.com/"
+          },
+          {
+            "icon": "InstagramIcon",
+            "url": "https://www.instagram.com/"
+          }
+        ],
+        "location": {
+          "lat": -37.1374024,
+          "lng": 174.9685924,
+          "zip": "2579",
+          "city": "Ramarama",
+          "state": "Auckland",
+          "country": "New Zealand",
+          "formattedAddress": "Waharau Lane, Ramarama 2579, New Zealand"
+        }
+      },
+      "notifications": null,
+      "created_at": "2021-06-27T03:47:23.000000Z",
+      "updated_at": "2023-10-19T06:52:14.000000Z"
+    }
+  }
+]

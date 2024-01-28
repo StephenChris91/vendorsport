@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1690538678629,
+    "order_id": 544,
+    "tracking_number": "334983046149",
+    "payment_gateway": "stripe",
+    "payment_intent_info": {
+      "client_secret": "pi_3NYnXHIv6m8Eo9dY0l8OToT5_secret_fOfELvQ6lGnxKin9Ttb7hEwGA",
+      "payment_id": "pi_3NYnXHIv6m8Eo9dY0l8OToT5",
+      "redirect_url": null,
+      "is_redirect": false
+    }
+  }
+]

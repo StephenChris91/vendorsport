@@ -1,0 +1,996 @@
+[
+  {
+    "id": 1014,
+    "name": "Samusung SoundPal S8 Mini Bluetooth Speaker",
+    "slug": "samusung-soundpal-s8-mini-bluetooth-speaker",
+    "description": "Experience On-the-Go Sound Brilliance with the Samusung SoundPal S8 Bluetooth Speaker\n\nIntroducing the Samusung SoundPal S8, a compact audio powerhouse that redefines your music experience. Designed for those who demand portability without compromising on sound quality, the SoundPal S8 is your perfect companion for life\u2019s adventures.\n\nKey Features:\n\n1. Superior Sound: Despite its small size, the SoundPal S8 delivers impressive audio performance. Immerse yourself in rich, dynamic sound that fills any space, whether you\u2019re at home, outdoors, or on the road.\n\n2. Compact Elegance: The sleek and minimalist design of the SoundPal S8 seamlessly blends with your lifestyle. Its compact form factor allows you to take your music wherever you go, ensuring you never miss a beat.\n\n3. Bluetooth Connectivity: Connect wirelessly to your devices using Bluetooth technology. Effortlessly pair your smartphone, tablet, or other compatible devices to the speaker and enjoy uninterrupted music streaming.\n\n4. Long Battery Life: Keep the party going with the SoundPal S8\u2019s extended battery life. Enjoy hours of continuous playback on a single charge, ensuring your music accompanies you throughout the day.\n\n5. Built-In Microphone: Take hands-free calls with ease. The built-in microphone allows you to answer calls directly from the speaker, making multitasking a breeze.\n\n6. Portable Design: With its lightweight construction and included carrying strap, the SoundPal S8 is ready for your outdoor escapades, picnics, beach trips, and more. It\u2019s the ultimate travel companion for your musical journey.\n\n7. Easy Controls: Control your music effortlessly using the onboard buttons. Adjust volume, skip tracks, and manage calls with intuitive controls that put you in charge of your entertainment.\n\n8. Universal Compatibility: The SoundPal S8 is designed to work seamlessly with a variety of devices. Whether you\u2019re using Android, iOS, or other Bluetooth-enabled devices, this speaker keeps the music flowing.\n\nElevate your audio experience with the Samusung SoundPal S8 Bluetooth Speaker. From its powerful sound quality to its sleek design, this speaker embodies the perfect balance of form and function. Whether you\u2019re exploring the great outdoors or unwinding at home, the SoundPal S8 is your gateway to music, wherever life takes you. Enjoy the freedom of wireless sound today.",
+    "type_id": 9,
+    "price": 67,
+    "shop_id": 9,
+    "sale_price": 53,
+    "language": "en",
+    "min_price": 67,
+    "max_price": 67,
+    "sku": "7555353",
+    "quantity": 5,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1 Pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2176/conversions/accessories-4-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2176/accessories-4.jpg",
+      "id": 2179,
+      "file_name": "accessories-4.jpg"
+    },
+    "video": [],
+    "gallery": [],
+    "deleted_at": null,
+    "created_at": "2023-10-10T15:10:48.000000Z",
+    "updated_at": "2023-10-12T16:51:33.000000Z",
+    "author_id": null,
+    "manufacturer_id": 11,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "settings": {
+        "isHome": true,
+        "layoutType": "minimal",
+        "productCard": "neon"
+      },
+      "slug": "gadget",
+      "language": "en",
+      "icon": "Gadgets",
+      "promotional_sliders": [],
+      "created_at": "2023-10-02T10:51:02.000000Z",
+      "updated_at": "2023-11-06T21:00:19.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 9,
+      "owner_id": 1,
+      "name": "Gadget",
+      "slug": "gadget",
+      "description": "The Gadget shop is the best shop in the city. This is being run under the store owner and our aim is to provide quality product and hassle-free customer service.",
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/conversions/Gadget-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/Gadget-banner.png",
+        "id": 1723,
+        "file_name": "Gadget-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/conversions/Gadget-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/Gadget.jpg",
+        "id": 1722,
+        "file_name": "Gadget.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Michigan",
+        "state": "Alabama",
+        "zip": "35203",
+        "street_address": "1740  Bedford Street"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "7708140768",
+        "website": "test-site.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T08:38:16.000000Z",
+      "updated_at": "2023-10-19T06:54:37.000000Z"
+    }
+  },
+  {
+    "id": 1015,
+    "name": "JuBL BOOSTUP Wireless Charging Pad",
+    "slug": "jubl-boostup-wireless-charging-pad",
+    "description": "JuBL BOOSTUP: Pocket-Sized Sound, Boundless Fun\n\nIntroducing the BOOSTUP, your ultimate companion for on-the-go music and instant party vibes. This mini Bluetooth speaker packs a powerful punch in a compact design, bringing your favorite tunes to life wherever you are.\n\nThe BOOSTUP boasts wireless Bluetooth connectivity, allowing you to easily connect your smartphone, tablet, or other devices. Say goodbye to tangled cords and hello to seamless music streaming.\n\nDon\u2019t be fooled by its size \u2013 the X100 delivers impressive sound quality with clear highs and vibrant lows. The speaker\u2019s powerful audio projection ensures that your music fills the room, creating a dynamic and immersive listening experience.\n\nWith up to 5 hours of playtime on a single charge, the X100 keeps the beats flowing throughout your adventures. Whether you\u2019re hanging out at the beach, having a picnic in the park, or simply enjoying your space at home, this speaker is ready to accompany you.\n\nBut it\u2019s not just about music \u2013 the X100 features a built-in microphone, turning it into a speakerphone for hands-free calling. You can seamlessly switch between your favorite tunes and important conversations without missing a beat.\n\nCompact, colorful, and full of energy, the BOOSTUP adds a splash of fun to your music experience. Choose from a range of vibrant colors and take your tunes with you wherever you roam.",
+    "type_id": 9,
+    "price": 50,
+    "shop_id": 9,
+    "sale_price": 24,
+    "language": "en",
+    "min_price": 50,
+    "max_price": 50,
+    "sku": "888525252",
+    "quantity": 3,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1 pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2177/conversions/accessories-5-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2177/accessories-5.jpg",
+      "id": 2180,
+      "file_name": "accessories-5.jpg"
+    },
+    "video": [],
+    "gallery": [
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2181/conversions/accessories-4-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2181/accessories-4.jpg",
+        "id": 2184,
+        "file_name": "accessories-4.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2023-10-10T15:13:08.000000Z",
+    "updated_at": "2023-10-12T16:50:47.000000Z",
+    "author_id": null,
+    "manufacturer_id": 11,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "settings": {
+        "isHome": true,
+        "layoutType": "minimal",
+        "productCard": "neon"
+      },
+      "slug": "gadget",
+      "language": "en",
+      "icon": "Gadgets",
+      "promotional_sliders": [],
+      "created_at": "2023-10-02T10:51:02.000000Z",
+      "updated_at": "2023-11-06T21:00:19.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 9,
+      "owner_id": 1,
+      "name": "Gadget",
+      "slug": "gadget",
+      "description": "The Gadget shop is the best shop in the city. This is being run under the store owner and our aim is to provide quality product and hassle-free customer service.",
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/conversions/Gadget-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/Gadget-banner.png",
+        "id": 1723,
+        "file_name": "Gadget-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/conversions/Gadget-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/Gadget.jpg",
+        "id": 1722,
+        "file_name": "Gadget.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Michigan",
+        "state": "Alabama",
+        "zip": "35203",
+        "street_address": "1740  Bedford Street"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "7708140768",
+        "website": "test-site.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T08:38:16.000000Z",
+      "updated_at": "2023-10-19T06:54:37.000000Z"
+    }
+  },
+  {
+    "id": 1017,
+    "name": "JuBL Charge 5",
+    "slug": "jubl-charge-5",
+    "description": "Introducing the JuBL Charge 5: Unleash the Power of Sound\n\nElevate your auditory experience with the JuBL Charge 5, a portable Bluetooth soundbox that\u2019s designed to deliver powerful sound and unmatched convenience. Whether you\u2019re indoors or outdoors, this speaker takes your music to the next level, making every moment a celebration of sound.\n\nThe JuBL Charge 5 boasts a robust and durable build that\u2019s ready for any adventure. Its rugged exterior is complemented by an IP67 rating, which means it\u2019s waterproof and dustproof, making it the perfect companion for poolside parties, beach trips, and outdoor escapades. Immerse yourself in the signature JuBL sound that the Charge series is known for. The speaker\u2019s high-performance drivers and passive radiators produce deep bass, clear midrange tones, and crisp highs, ensuring that your music is heard with impressive clarity and depth. With a long-lasting battery life, the Charge 5 keeps the music playing for hours on end. It also doubles as a power bank, allowing you to charge your devices on the go, ensuring your smartphone stays charged and connected during your adventures. Stay connected wirelessly with Bluetooth connectivity, and pair two JuBL Charge 5 speakers for a stereo sound experience that fills any space. The speaker\u2019s intuitive controls and rugged design ensure that you can focus on enjoying the music without worrying about its safety.\n\nThe JuBL Charge 5 is more than just a speaker \u2013 it\u2019s a statement of audio excellence that lets you unleash the power of sound wherever you go. From casual gatherings to outdoor excursions, this speaker transforms any environment into a sonic playground.",
+    "type_id": 9,
+    "price": 118,
+    "shop_id": 9,
+    "sale_price": null,
+    "language": "en",
+    "min_price": 118,
+    "max_price": 118,
+    "sku": "235396899",
+    "quantity": 3,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 1,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1 Pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2184/conversions/sound-box-4-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2184/sound-box-4.jpg",
+      "id": 2187,
+      "file_name": "sound-box-4.jpg"
+    },
+    "video": [],
+    "gallery": [
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2185/conversions/sound-box-5-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2185/sound-box-5.jpg",
+        "id": 2188,
+        "file_name": "sound-box-5.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2023-10-10T15:19:13.000000Z",
+    "updated_at": "2023-11-09T14:18:09.000000Z",
+    "author_id": null,
+    "manufacturer_id": 10,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "settings": {
+        "isHome": true,
+        "layoutType": "minimal",
+        "productCard": "neon"
+      },
+      "slug": "gadget",
+      "language": "en",
+      "icon": "Gadgets",
+      "promotional_sliders": [],
+      "created_at": "2023-10-02T10:51:02.000000Z",
+      "updated_at": "2023-11-06T21:00:19.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 9,
+      "owner_id": 1,
+      "name": "Gadget",
+      "slug": "gadget",
+      "description": "The Gadget shop is the best shop in the city. This is being run under the store owner and our aim is to provide quality product and hassle-free customer service.",
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/conversions/Gadget-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/Gadget-banner.png",
+        "id": 1723,
+        "file_name": "Gadget-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/conversions/Gadget-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/Gadget.jpg",
+        "id": 1722,
+        "file_name": "Gadget.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Michigan",
+        "state": "Alabama",
+        "zip": "35203",
+        "street_address": "1740  Bedford Street"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "7708140768",
+        "website": "test-site.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T08:38:16.000000Z",
+      "updated_at": "2023-10-19T06:54:37.000000Z"
+    }
+  },
+  {
+    "id": 1018,
+    "name": "Souny SRS-XB43 Bluetooth Speaker",
+    "slug": "souny-srs-xb43-bluetooth-speaker",
+    "description": "Introducing the Souny SRS-XB43: Unleash the Power of Extra Bass\n\nExperience music in its full intensity with the Sony SRS-XB43, a portable Bluetooth speaker that\u2019s engineered to deliver deep, powerful bass and exceptional sound quality. Whether you\u2019re at home, outdoors, or on the go, this speaker enhances your audio experience with its impressive features and dynamic performance.\n\nThe Souny SRS-XB43 is designed to elevate your music with Extra Bass technology. Its dual passive radiators and full-range speakers produce rich, thumping bass that adds depth and impact to your favorite tracks, creating a music experience that you can feel.\n\nBuilt for both indoors and outdoors, the SRS-XB43 is not only water-resistant but also designed to withstand tough conditions. Its rugged build and durable materials ensure that it can accompany you on your adventures without missing a beat. With up to 24 hours of battery life, the SRS-XB43 keeps the party going all day and night. You can also charge your devices on the go using the speaker\u2019s built-in USB port, ensuring your gadgets stay powered up. Create a party atmosphere with the speaker\u2019s built-in multi-color LED lights that sync to the beat of your music. Customize the light patterns to suit your mood or the occasion, adding a dynamic visual element to your listening experience. Connect wirelessly via Bluetooth or use the speaker\u2019s NFC functionality for quick pairing. With the Party Connect feature, you can link multiple compatible Sony speakers for a synchronized sound experience that fills any space.\n\nThe Souny SRS-XB43 is more than just a speaker \u2013 it\u2019s a portable powerhouse that delivers impressive sound, deep bass, and a visual spectacle. Whether you\u2019re relaxing at home or exploring the outdoors, this speaker enhances every moment with its immersive audio performance.",
+    "type_id": 9,
+    "price": 550,
+    "shop_id": 9,
+    "sale_price": 250,
+    "language": "en",
+    "min_price": 550,
+    "max_price": 550,
+    "sku": "868655535",
+    "quantity": 2,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1 pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2186/conversions/sound-box-3-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2186/sound-box-3.jpg",
+      "id": 2189,
+      "file_name": "sound-box-3.jpg"
+    },
+    "video": [],
+    "gallery": [],
+    "deleted_at": null,
+    "created_at": "2023-10-10T15:20:45.000000Z",
+    "updated_at": "2023-10-12T16:47:43.000000Z",
+    "author_id": null,
+    "manufacturer_id": 10,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "settings": {
+        "isHome": true,
+        "layoutType": "minimal",
+        "productCard": "neon"
+      },
+      "slug": "gadget",
+      "language": "en",
+      "icon": "Gadgets",
+      "promotional_sliders": [],
+      "created_at": "2023-10-02T10:51:02.000000Z",
+      "updated_at": "2023-11-06T21:00:19.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 9,
+      "owner_id": 1,
+      "name": "Gadget",
+      "slug": "gadget",
+      "description": "The Gadget shop is the best shop in the city. This is being run under the store owner and our aim is to provide quality product and hassle-free customer service.",
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/conversions/Gadget-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/Gadget-banner.png",
+        "id": 1723,
+        "file_name": "Gadget-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/conversions/Gadget-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/Gadget.jpg",
+        "id": 1722,
+        "file_name": "Gadget.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Michigan",
+        "state": "Alabama",
+        "zip": "35203",
+        "street_address": "1740  Bedford Street"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "7708140768",
+        "website": "test-site.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T08:38:16.000000Z",
+      "updated_at": "2023-10-19T06:54:37.000000Z"
+    }
+  },
+  {
+    "id": 1021,
+    "name": "Aamazfit GTR 3",
+    "slug": "aamazfit-gtr-3",
+    "description": "Introducing the Aamazfit GTR 3: A Fusion of Elegance and Technology\n\nElevate your wrist with the Aamazfit GTR 3, a stunning smartwatch that harmonizes aesthetics and innovation. This remarkable timepiece is designed to enrich your daily life, offering advanced features and a sophisticated design that seamlessly blends with your style.\n\nThe Aamazfit GTR 3 showcases a refined circular display that captivates with its clarity and brilliance. Whether you\u2019re tracking your health metrics, receiving notifications, or exploring apps, the display provides an immersive and intuitive experience.\n\nEmpower your wellness journey with the GTR 3\u2019s comprehensive health tracking capabilities. Monitor your heart rate, sleep quality, SpO2 levels, and more, gaining insights into your overall well-being and making informed decisions about your health.\n\nDesigned to complement your active lifestyle, the GTR 3 boasts an array of sports modes that cater to your various workouts and activities. It provides real-time data and personalized coaching to help you maximize your fitness potential.\n\nStay effortlessly connected with notifications, messages, and calls delivered directly to your wrist. The GTR 3\u2019s seamless integration with your smartphone ensures that you remain informed and engaged throughout your day.\n\nCrafted with attention to detail, the GTR 3 radiates elegance with its premium materials and customizable watch faces. Express your personal style and mood by choosing from a variety of faces and bands that suit your preference.\n\nThe Aamazfit GTR 3 is not just a smartwatch \u2013 it\u2019s a statement of sophistication and technology that enhances your daily life with advanced features and an appealing design.",
+    "type_id": 9,
+    "price": null,
+    "shop_id": 9,
+    "sale_price": null,
+    "language": "en",
+    "min_price": 190,
+    "max_price": 190,
+    "sku": null,
+    "quantity": 8,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 1,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "variable",
+    "unit": "1 pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2190/conversions/Smart-watch-5-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2190/Smart-watch-5.jpg",
+      "id": 2193,
+      "file_name": "Smart-watch-5.jpg"
+    },
+    "video": [],
+    "gallery": [
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2192/conversions/Smart-watch-1-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2192/Smart-watch-1.jpg",
+        "id": 2195,
+        "file_name": "Smart-watch-1.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2023-10-10T15:27:41.000000Z",
+    "updated_at": "2023-11-09T14:18:09.000000Z",
+    "author_id": null,
+    "manufacturer_id": 10,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "settings": {
+        "isHome": true,
+        "layoutType": "minimal",
+        "productCard": "neon"
+      },
+      "slug": "gadget",
+      "language": "en",
+      "icon": "Gadgets",
+      "promotional_sliders": [],
+      "created_at": "2023-10-02T10:51:02.000000Z",
+      "updated_at": "2023-11-06T21:00:19.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 9,
+      "owner_id": 1,
+      "name": "Gadget",
+      "slug": "gadget",
+      "description": "The Gadget shop is the best shop in the city. This is being run under the store owner and our aim is to provide quality product and hassle-free customer service.",
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/conversions/Gadget-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/Gadget-banner.png",
+        "id": 1723,
+        "file_name": "Gadget-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/conversions/Gadget-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/Gadget.jpg",
+        "id": 1722,
+        "file_name": "Gadget.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Michigan",
+        "state": "Alabama",
+        "zip": "35203",
+        "street_address": "1740  Bedford Street"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "7708140768",
+        "website": "test-site.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T08:38:16.000000Z",
+      "updated_at": "2023-10-19T06:54:37.000000Z"
+    }
+  },
+  {
+    "id": 1022,
+    "name": "Samusung Galaxy Watch 4",
+    "slug": "samusung-galaxy-watch-4",
+    "description": "Introducing the Samusung Galaxy Watch 4: Your Ultimate Wellness Companion\n\nElevate your health and style with the Samusung Galaxy Watch 4. This remarkable smartwatch redefines wellness tracking, seamlessly blending advanced technology with sleek design to empower you on your journey to better health and an enhanced lifestyle.\n\nThe Galaxy Watch 4 features an array of health sensors that monitor your body\u2019s metrics with unprecedented accuracy. From measuring your blood oxygen levels to tracking your sleep patterns, this smartwatch provides insights that help you make informed decisions about your well-being.\n\nDesigned to keep up with your active lifestyle, the Galaxy Watch 4 offers a multitude of fitness tracking options. Whether you\u2019re running, cycling, or practicing yoga, its real-time feedback and personalized coaching guide you toward achieving your fitness goals.\n\nThe watch\u2019s impressive AMOLED display showcases vibrant visuals and allows you to access notifications, apps, and information with ease. Its intuitive interface adapts to your needs, ensuring a seamless experience whether you\u2019re checking messages or controlling music.\n\nWith its extensive range of watch faces and interchangeable bands, the Galaxy Watch 4 lets you express your personal style while adapting to any occasion. The watch\u2019s water and dust resistance mean you can confidently wear it throughout your day, even during your workouts and adventures.\n\nStay connected without missing a beat as the Galaxy Watch 4 seamlessly integrates with your smartphone, allowing you to take calls, reply to messages, and access apps on your wrist. This smartwatch is more than just a timepiece; it\u2019s a comprehensive tool that empowers you to make informed choices for a healthier and more fulfilling life.",
+    "type_id": 9,
+    "price": 555,
+    "shop_id": 9,
+    "sale_price": 256,
+    "language": "en",
+    "min_price": 555,
+    "max_price": 555,
+    "sku": "5245866389686",
+    "quantity": 3,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1 pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2193/conversions/Smart-watch-1-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2193/Smart-watch-1.jpg",
+      "id": 2196,
+      "file_name": "Smart-watch-1.jpg"
+    },
+    "video": [],
+    "gallery": [
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2194/conversions/Smart-watch-2-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2194/Smart-watch-2.jpg",
+        "id": 2197,
+        "file_name": "Smart-watch-2.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2023-10-10T15:28:52.000000Z",
+    "updated_at": "2023-10-12T16:30:22.000000Z",
+    "author_id": null,
+    "manufacturer_id": 11,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "settings": {
+        "isHome": true,
+        "layoutType": "minimal",
+        "productCard": "neon"
+      },
+      "slug": "gadget",
+      "language": "en",
+      "icon": "Gadgets",
+      "promotional_sliders": [],
+      "created_at": "2023-10-02T10:51:02.000000Z",
+      "updated_at": "2023-11-06T21:00:19.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 9,
+      "owner_id": 1,
+      "name": "Gadget",
+      "slug": "gadget",
+      "description": "The Gadget shop is the best shop in the city. This is being run under the store owner and our aim is to provide quality product and hassle-free customer service.",
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/conversions/Gadget-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/Gadget-banner.png",
+        "id": 1723,
+        "file_name": "Gadget-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/conversions/Gadget-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/Gadget.jpg",
+        "id": 1722,
+        "file_name": "Gadget.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Michigan",
+        "state": "Alabama",
+        "zip": "35203",
+        "street_address": "1740  Bedford Street"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "7708140768",
+        "website": "test-site.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T08:38:16.000000Z",
+      "updated_at": "2023-10-19T06:54:37.000000Z"
+    }
+  },
+  {
+    "id": 1023,
+    "name": "Amaazfit Bip U",
+    "slug": "amaazfit-bip-u",
+    "description": "Introducing the Amaazfit Bip U: Your Wellness Companion on Your Wrist\n\nExperience a new era of smart wellness with the Amaazfit Bip U. This remarkable smartwatch offers a blend of style and functionality that supports your well-being, fitness, and connectivity, all in a sleek and lightweight design.\n\nThe Amaazfit Bip U features a vibrant and colorful display that showcases your notifications, health metrics, and more with clarity. Whether you\u2019re tracking your workouts or checking your messages, the display ensures a seamless and intuitive experience.\n\nEquipped with advanced health tracking sensors, the Bip U monitors your heart rate, sleep quality, SpO2 levels, and more. It provides insights into your overall wellness, allowing you to make informed decisions about your health and lifestyle.\n\nWith over 60 sports modes, the Bip U empowers you to explore various activities and workouts. From running to swimming to yoga, the smartwatch provides real-time data and performance analysis to help you achieve your fitness goals.\n\nStay connected without the need to reach for your phone \u2013 the Bip U delivers notifications, messages, and calls directly to your wrist. It\u2019s a convenient way to stay informed and connected, even when you\u2019re on the move.\n\nWith customizable watch faces and interchangeable bands, you can personalize the Bip U to match your style and mood. The long battery life ensures that the smartwatch keeps up with your busy day.\n\nThe Amaazfit Bip U is more than just a smartwatch; it\u2019s a companion that supports your journey to better health and a more connected lifestyle. With its impressive features and appealing design, it\u2019s a valuable addition to your daily routine.",
+    "type_id": 9,
+    "price": 231,
+    "shop_id": 9,
+    "sale_price": null,
+    "language": "en",
+    "min_price": 231,
+    "max_price": 231,
+    "sku": "456325889",
+    "quantity": 3,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 1,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1 pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2195/conversions/Smart-watch-3-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2195/Smart-watch-3.jpg",
+      "id": 2198,
+      "file_name": "Smart-watch-3.jpg"
+    },
+    "video": [],
+    "gallery": [
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2196/conversions/Smart-watch-6-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2196/Smart-watch-6.jpg",
+        "id": 2199,
+        "file_name": "Smart-watch-6.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2023-10-10T15:30:20.000000Z",
+    "updated_at": "2023-11-09T14:18:09.000000Z",
+    "author_id": null,
+    "manufacturer_id": 11,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "settings": {
+        "isHome": true,
+        "layoutType": "minimal",
+        "productCard": "neon"
+      },
+      "slug": "gadget",
+      "language": "en",
+      "icon": "Gadgets",
+      "promotional_sliders": [],
+      "created_at": "2023-10-02T10:51:02.000000Z",
+      "updated_at": "2023-11-06T21:00:19.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 9,
+      "owner_id": 1,
+      "name": "Gadget",
+      "slug": "gadget",
+      "description": "The Gadget shop is the best shop in the city. This is being run under the store owner and our aim is to provide quality product and hassle-free customer service.",
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/conversions/Gadget-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/Gadget-banner.png",
+        "id": 1723,
+        "file_name": "Gadget-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/conversions/Gadget-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/Gadget.jpg",
+        "id": 1722,
+        "file_name": "Gadget.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Michigan",
+        "state": "Alabama",
+        "zip": "35203",
+        "street_address": "1740  Bedford Street"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "7708140768",
+        "website": "test-site.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T08:38:16.000000Z",
+      "updated_at": "2023-10-19T06:54:37.000000Z"
+    }
+  },
+  {
+    "id": 1024,
+    "name": "Amaazfit T-Rex",
+    "slug": "amaazfit-t-rex",
+    "description": "Introducing the Amaazfit T-Rex: Conquer the Outdoors with Strength and Style\n\nUnleash your adventurous spirit with the Amaazfit T-Rex, a rugged smartwatch built to withstand the elements and accompany you on your wildest journeys. Designed for outdoor enthusiasts, this robust timepiece combines durability, advanced features, and a bold design that\u2019s ready for any challenge.\n\nThe Amaazfit T-Rex features a tough and resilient build that\u2019s built to military standards (MIL-STD-810G). Whether you\u2019re trekking through rugged terrain or facing extreme conditions, this smartwatch is up for the task, providing you with the information you need when you need it. With a vibrant and easy-to-read display, the T-Rex keeps you informed with notifications, health metrics, and more. Its intuitive interface ensures you can access essential information on the go, whether you\u2019re tracking your route or checking messages. Equip yourself with a comprehensive set of health and fitness features. Monitor your heart rate, sleep quality, and activity levels, gaining insights into your well-being. With a variety of sports modes, the T-Rex supports your active lifestyle by providing real-time data and performance analysis for a range of activities. Stay connected even in remote locations \u2013 the T-Rex lets you receive notifications, messages, and calls directly on your wrist. Its impressive battery life ensures that it\u2019s ready for extended journeys without the need for frequent charging.\n\nBold and adventurous, the Amaazfit T-Rex is not just a smartwatch; it\u2019s a symbol of strength and determination. With its durable construction and advanced features, it empowers you to conquer the outdoors and embrace every challenge.",
+    "type_id": 9,
+    "price": 310,
+    "shop_id": 9,
+    "sale_price": null,
+    "language": "en",
+    "min_price": 310,
+    "max_price": 310,
+    "sku": "7575528788",
+    "quantity": 7,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 1,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1 pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2197/conversions/Smart-watch-4-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2197/Smart-watch-4.jpg",
+      "id": 2200,
+      "file_name": "Smart-watch-4.jpg"
+    },
+    "video": [],
+    "gallery": [
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2198/conversions/Smart-watch-5-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2198/Smart-watch-5.jpg",
+        "id": 2201,
+        "file_name": "Smart-watch-5.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2023-10-10T15:31:43.000000Z",
+    "updated_at": "2023-11-09T14:18:09.000000Z",
+    "author_id": null,
+    "manufacturer_id": 10,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "settings": {
+        "isHome": true,
+        "layoutType": "minimal",
+        "productCard": "neon"
+      },
+      "slug": "gadget",
+      "language": "en",
+      "icon": "Gadgets",
+      "promotional_sliders": [],
+      "created_at": "2023-10-02T10:51:02.000000Z",
+      "updated_at": "2023-11-06T21:00:19.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 9,
+      "owner_id": 1,
+      "name": "Gadget",
+      "slug": "gadget",
+      "description": "The Gadget shop is the best shop in the city. This is being run under the store owner and our aim is to provide quality product and hassle-free customer service.",
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/conversions/Gadget-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/Gadget-banner.png",
+        "id": 1723,
+        "file_name": "Gadget-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/conversions/Gadget-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/Gadget.jpg",
+        "id": 1722,
+        "file_name": "Gadget.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Michigan",
+        "state": "Alabama",
+        "zip": "35203",
+        "street_address": "1740  Bedford Street"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "7708140768",
+        "website": "test-site.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T08:38:16.000000Z",
+      "updated_at": "2023-10-19T06:54:37.000000Z"
+    }
+  },
+  {
+    "id": 1028,
+    "name": "Logeitech C930e Business Webcam",
+    "slug": "logeitech-c930e-business-webcam",
+    "description": "Introducing the Logeitech C930e Business Webcam: Elevate Your Video Conferencing\n\nExperience professional-quality video conferencing with the Logeitech C930e Business Webcam. Designed to meet the demands of modern business communication, this webcam brings clarity, versatility, and reliability to your virtual meetings.\n\nThe Logeitech C930e captures every detail with precision, delivering Full HD 1080p video quality. Whether you\u2019re engaging with colleagues, clients, or partners, the camera ensures that your presence is vivid and lifelike, even in challenging lighting conditions.\n\nDesigned with business in mind, the C930e offers a wide 90-degree field of view, perfect for capturing group discussions or presentations. Advanced autofocus technology ensures that you remain sharp and clear, eliminating distractions and enhancing your professional image.\n\nWith certifications for popular conferencing platforms, the C930e seamlessly integrates into your workflow. Whether you\u2019re in a small meeting room or a home office, this webcam adapts to your environment, making you feel connected and engaged.\n\nElevate your video conferencing experience with the Logitech C930e Business Webcam. Make a lasting impression with sharp visuals, clear communication, and a professional edge. Choose the C930e and embrace the future of business communication, where distance becomes insignificant, and connection is paramount.",
+    "type_id": 9,
+    "price": 95,
+    "shop_id": 9,
+    "sale_price": 90,
+    "language": "en",
+    "min_price": 95,
+    "max_price": 95,
+    "sku": "49683638963",
+    "quantity": 4,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2206/conversions/camera-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2206/camera.jpg",
+      "id": 2209,
+      "file_name": "camera.jpg"
+    },
+    "video": [],
+    "gallery": [
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2207/conversions/camera-2-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2207/camera-2.jpg",
+        "id": 2210,
+        "file_name": "camera-2.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2023-10-11T03:45:38.000000Z",
+    "updated_at": "2023-10-12T16:22:38.000000Z",
+    "author_id": null,
+    "manufacturer_id": 10,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 9,
+      "name": "Gadget",
+      "settings": {
+        "isHome": true,
+        "layoutType": "minimal",
+        "productCard": "neon"
+      },
+      "slug": "gadget",
+      "language": "en",
+      "icon": "Gadgets",
+      "promotional_sliders": [],
+      "created_at": "2023-10-02T10:51:02.000000Z",
+      "updated_at": "2023-11-06T21:00:19.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 9,
+      "owner_id": 1,
+      "name": "Gadget",
+      "slug": "gadget",
+      "description": "The Gadget shop is the best shop in the city. This is being run under the store owner and our aim is to provide quality product and hassle-free customer service.",
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/conversions/Gadget-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/Gadget-banner.png",
+        "id": 1723,
+        "file_name": "Gadget-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/conversions/Gadget-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/Gadget.jpg",
+        "id": 1722,
+        "file_name": "Gadget.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Michigan",
+        "state": "Alabama",
+        "zip": "35203",
+        "street_address": "1740  Bedford Street"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "7708140768",
+        "website": "test-site.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T08:38:16.000000Z",
+      "updated_at": "2023-10-19T06:54:37.000000Z"
+    }
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "id": 11,
+    "name": "Filetype",
+    "shop_id": 1,
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "filetype",
+    "type": {
+      "id": null,
+      "name": null,
+      "slug": null,
+      "logo": null
+    },
+    "values": [
+      {
+        "id": 35,
+        "value": "PSD",
+        "attribute_id": 11,
+        "slug": "psd",
+        "meta": "file-psd",
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 36,
+        "value": "SENSORPANEL",
+        "attribute_id": 11,
+        "slug": "sensorpanel",
+        "meta": "file-sensor",
+        "language": "en",
+        "translated_languages": ["en"]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Color",
+    "shop_id": 11,
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "color-OMG",
+    "type": {
+      "id": null,
+      "name": null,
+      "slug": null,
+      "logo": null
+    },
+    "values": [
+      {
+        "id": 32,
+        "value": "Black",
+        "attribute_id": 10,
+        "slug": "black-3",
+        "meta": "Black",
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 33,
+        "value": "Red",
+        "attribute_id": 10,
+        "slug": "red-2",
+        "meta": "Red",
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 34,
+        "value": "White",
+        "attribute_id": 10,
+        "slug": "white-4",
+        "meta": "White",
+        "language": "en",
+        "translated_languages": ["en"]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Size",
+    "shop_id": 11,
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "size-zLh",
+    "type": {
+      "id": null,
+      "name": null,
+      "slug": null,
+      "logo": null
+    },
+    "values": [
+      {
+        "id": 29,
+        "value": "Small",
+        "attribute_id": 9,
+        "slug": "small",
+        "meta": "S",
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 30,
+        "value": "Medium",
+        "attribute_id": 9,
+        "slug": "medium",
+        "meta": "M",
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 31,
+        "value": "Large",
+        "attribute_id": 9,
+        "slug": "large",
+        "meta": "L",
+        "language": "en",
+        "translated_languages": ["en"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Color",
+    "shop_id": 9,
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "color-A6u",
+    "type": {
+      "id": null,
+      "name": null,
+      "slug": null,
+      "logo": null
+    },
+    "values": [
+      {
+        "id": 27,
+        "value": "Black",
+        "attribute_id": 8,
+        "slug": "black-2",
+        "meta": "black",
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 28,
+        "value": "White",
+        "attribute_id": 8,
+        "slug": "white-3",
+        "meta": "white",
+        "language": "en",
+        "translated_languages": ["en"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Aurora Pope",
+    "shop_id": 7,
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "book-type",
+    "type": {
+      "id": null,
+      "name": null,
+      "slug": null,
+      "logo": null
+    },
+    "values": [
+      {
+        "id": 21,
+        "value": "Magni voluptas eum e",
+        "attribute_id": 6,
+        "slug": "hardcover-book",
+        "meta": "Cupiditate similique",
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 22,
+        "value": "Sint voluptatem ul",
+        "attribute_id": 6,
+        "slug": "picture-book",
+        "meta": "Exercitationem fugia",
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 23,
+        "value": "Impedit sint molest",
+        "attribute_id": 6,
+        "slug": "paperback-book",
+        "meta": "Consequat Eius debi",
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 24,
+        "value": "Sunt voluptas animi",
+        "attribute_id": 6,
+        "slug": "pdf-book",
+        "meta": "Qui tempore quis od",
+        "language": "en",
+        "translated_languages": ["en"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Language",
+    "shop_id": 7,
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "language",
+    "type": {
+      "id": null,
+      "name": null,
+      "slug": null,
+      "logo": null
+    },
+    "values": [
+      {
+        "id": 15,
+        "value": "English",
+        "attribute_id": 5,
+        "slug": "english",
+        "meta": null,
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 16,
+        "value": "Arabic",
+        "attribute_id": 5,
+        "slug": "arabic",
+        "meta": null,
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 17,
+        "value": "Spanish",
+        "attribute_id": 5,
+        "slug": "spanish",
+        "meta": null,
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 18,
+        "value": "French",
+        "attribute_id": 5,
+        "slug": "french",
+        "meta": null,
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 19,
+        "value": "Hindi",
+        "attribute_id": 5,
+        "slug": "hindi",
+        "meta": null,
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 20,
+        "value": "Hebrew",
+        "attribute_id": 5,
+        "slug": "hebrew",
+        "meta": null,
+        "language": "en",
+        "translated_languages": ["en"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Size",
+    "shop_id": 2,
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "size",
+    "type": {
+      "id": null,
+      "name": null,
+      "slug": null,
+      "logo": null
+    },
+    "values": [
+      {
+        "id": 11,
+        "value": "S",
+        "attribute_id": 4,
+        "slug": "s",
+        "meta": null,
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 12,
+        "value": "M",
+        "attribute_id": 4,
+        "slug": "m",
+        "meta": null,
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 13,
+        "value": "L",
+        "attribute_id": 4,
+        "slug": "l",
+        "meta": null,
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 14,
+        "value": "XL",
+        "attribute_id": 4,
+        "slug": "xl",
+        "meta": null,
+        "language": "en",
+        "translated_languages": ["en"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Color",
+    "shop_id": 2,
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "color",
+    "type": {
+      "id": null,
+      "name": null,
+      "slug": null,
+      "logo": null
+    },
+    "values": [
+      {
+        "id": 8,
+        "value": "Red",
+        "attribute_id": 3,
+        "slug": "red",
+        "meta": "#ce1f6a",
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 9,
+        "value": "Blue",
+        "attribute_id": 3,
+        "slug": "blue",
+        "meta": "#344fa1",
+        "language": "en",
+        "translated_languages": ["en"]
+      },
+      {
+        "id": 10,
+        "value": "White",
+        "attribute_id": 3,
+        "slug": "white",
+        "meta": "#e1e5ea",
+        "language": "en",
+        "translated_languages": ["en"]
+      }
+    ]
+  }
+]

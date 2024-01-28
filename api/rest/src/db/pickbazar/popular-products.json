@@ -1,0 +1,1632 @@
+[
+  {
+    "id": 4,
+    "name": "Brussels Sprout",
+    "slug": "brussels-sprout",
+    "description": "The Brussels sprout is a member of the Gemmifera Group of cabbages, grown for its edible buds. The leaf vegetables are typically 1.5\u20134.0 cm in diameter and look like miniature cabbages. The Brussels sprout has long been popular in Brussels, Belgium, and may have gained its name there.",
+    "type_id": 1,
+    "price": 5,
+    "shop_id": 6,
+    "sale_price": 3,
+    "language": "en",
+    "min_price": 5,
+    "max_price": 5,
+    "sku": "4",
+    "quantity": 17,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1lb",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "id": "4",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/4/BrusselsSprouts.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/4/conversions/BrusselsSprouts-thumbnail.jpg"
+    },
+    "video": null,
+    "gallery": [
+      {
+        "id": "582",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/581/Brussels-Sprout-1.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/581/conversions/Brussels-Sprout-1-thumbnail.jpg"
+      },
+      {
+        "id": "583",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/582/Brussels-Sprout-2.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/582/conversions/Brussels-Sprout-2-thumbnail.jpg"
+      },
+      {
+        "id": "584",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/583/Brussels-Sprout.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/583/conversions/Brussels-Sprout-thumbnail.jpg"
+      },
+      {
+        "id": "741",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/740/BrusselsSprouts_adwhet.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/740/conversions/BrusselsSprouts_adwhet-thumbnail.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2021-03-08T10:42:32.000000Z",
+    "updated_at": "2023-10-06T06:19:56.000000Z",
+    "author_id": null,
+    "manufacturer_id": null,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "orders_count": 6,
+    "ratings": 5,
+    "total_reviews": 3,
+    "rating_count": [
+      {
+        "rating": 5,
+        "total": 3,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      }
+    ],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 1,
+      "name": "Grocery",
+      "settings": {
+        "isHome": false,
+        "productCard": "helium",
+        "layoutType": "classic"
+      },
+      "slug": "grocery",
+      "language": "en",
+      "icon": "FruitsVegetable",
+      "promotional_sliders": [
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+          "id": "902"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+          "id": "903"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+          "id": "904"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+          "id": "905"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+          "id": "906"
+        }
+      ],
+      "created_at": "2021-03-08T07:18:25.000000Z",
+      "updated_at": "2023-10-05T06:47:06.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 6,
+      "owner_id": 1,
+      "name": "Grocery Shop",
+      "slug": "grocery-shop",
+      "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+      "cover_image": {
+        "id": "894",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg"
+      },
+      "logo": {
+        "id": "893",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Freeport",
+        "state": "Illinois",
+        "zip": "61032",
+        "street_address": "1986  Spinnaker Lane"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "5619327220",
+        "website": "https://redq.io",
+        "socials": [
+          {
+            "icon": "FacebookIcon",
+            "url": "https://www.facebook.com/"
+          },
+          {
+            "icon": "InstagramIcon",
+            "url": "https://www.instagram.com/"
+          },
+          {
+            "icon": "TwitterIcon",
+            "url": "https://www.twitter.com/"
+          }
+        ],
+        "location": {
+          "lat": 38.9032325,
+          "lng": -77.0211068,
+          "city": "Washington",
+          "state": "DC",
+          "country": "United States",
+          "formattedAddress": "New York Ave NW, Washington, DC, USA"
+        }
+      },
+      "notifications": null,
+      "created_at": "2021-06-27T03:48:23.000000Z",
+      "updated_at": "2023-10-19T07:05:23.000000Z"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Apples",
+    "slug": "apples",
+    "description": "An apple is a sweet, edible fruit produced by an apple tree (Malus domestica). Apple trees are ... The skin of ripe apples is generally red, yellow, green, pink, or russetted, though many bi- or tri-colored cultivars may be found.",
+    "type_id": 1,
+    "price": 2,
+    "shop_id": 6,
+    "sale_price": 1.6,
+    "language": "en",
+    "min_price": 2,
+    "max_price": 2,
+    "sku": "1",
+    "quantity": 18,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1lb",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "id": "1",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1/Apples.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1/conversions/Apples-thumbnail.jpg"
+    },
+    "video": null,
+    "gallery": [
+      {
+        "id": "573",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/572/apple-1.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/572/conversions/apple-1-thumbnail.jpg"
+      },
+      {
+        "id": "574",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/573/apple-2.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/573/conversions/apple-2-thumbnail.jpg"
+      },
+      {
+        "id": "575",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/574/apple.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/574/conversions/apple-thumbnail.jpg"
+      },
+      {
+        "id": "737",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/736/apple-2.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/736/conversions/apple-2-thumbnail.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2021-03-08T10:24:53.000000Z",
+    "updated_at": "2023-10-06T06:19:56.000000Z",
+    "author_id": null,
+    "manufacturer_id": null,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "orders_count": 4,
+    "ratings": 4.67,
+    "total_reviews": 3,
+    "rating_count": [
+      {
+        "rating": 5,
+        "total": 2,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      },
+      {
+        "rating": 4,
+        "total": 1,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      }
+    ],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 1,
+      "name": "Grocery",
+      "settings": {
+        "isHome": false,
+        "productCard": "helium",
+        "layoutType": "classic"
+      },
+      "slug": "grocery",
+      "language": "en",
+      "icon": "FruitsVegetable",
+      "promotional_sliders": [
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+          "id": "902"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+          "id": "903"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+          "id": "904"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+          "id": "905"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+          "id": "906"
+        }
+      ],
+      "created_at": "2021-03-08T07:18:25.000000Z",
+      "updated_at": "2023-10-05T06:47:06.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 6,
+      "owner_id": 1,
+      "name": "Grocery Shop",
+      "slug": "grocery-shop",
+      "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+      "cover_image": {
+        "id": "894",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg"
+      },
+      "logo": {
+        "id": "893",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Freeport",
+        "state": "Illinois",
+        "zip": "61032",
+        "street_address": "1986  Spinnaker Lane"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "5619327220",
+        "website": "https://redq.io",
+        "socials": [
+          {
+            "icon": "FacebookIcon",
+            "url": "https://www.facebook.com/"
+          },
+          {
+            "icon": "InstagramIcon",
+            "url": "https://www.instagram.com/"
+          },
+          {
+            "icon": "TwitterIcon",
+            "url": "https://www.twitter.com/"
+          }
+        ],
+        "location": {
+          "lat": 38.9032325,
+          "lng": -77.0211068,
+          "city": "Washington",
+          "state": "DC",
+          "country": "United States",
+          "formattedAddress": "New York Ave NW, Washington, DC, USA"
+        }
+      },
+      "notifications": null,
+      "created_at": "2021-06-27T03:48:23.000000Z",
+      "updated_at": "2023-10-19T07:05:23.000000Z"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Blueberries",
+    "slug": "blueberries",
+    "description": "Blueberries are perennial flowering plants with blue or purple berries. They are classified in the section Cyanococcus within the genus Vaccinium. Vaccinium also includes cranberries, bilberries, huckleberries and Madeira blueberries. Commercial blueberries\u2014both wild and cultivated \u2014are all native to North America.",
+    "type_id": 1,
+    "price": 3,
+    "shop_id": 6,
+    "sale_price": null,
+    "language": "en",
+    "min_price": 3,
+    "max_price": 3,
+    "sku": "3",
+    "quantity": 30,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1lb",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "id": "3",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/3/blueberries.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/3/conversions/blueberries-thumbnail.jpg"
+    },
+    "video": null,
+    "gallery": [
+      {
+        "id": "580",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/579/Bluberries-2.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/579/conversions/Bluberries-2-thumbnail.jpg"
+      },
+      {
+        "id": "581",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/580/Bluberries.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/580/conversions/Bluberries-thumbnail.jpg"
+      },
+      {
+        "id": "740",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/739/blueberries_relyfn.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/739/conversions/blueberries_relyfn-thumbnail.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2021-03-08T10:40:00.000000Z",
+    "updated_at": "2023-11-10T03:12:29.000000Z",
+    "author_id": null,
+    "manufacturer_id": null,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "orders_count": 4,
+    "ratings": 4.67,
+    "total_reviews": 3,
+    "rating_count": [
+      {
+        "rating": 5,
+        "total": 2,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      },
+      {
+        "rating": 4,
+        "total": 1,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      }
+    ],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 1,
+      "name": "Grocery",
+      "settings": {
+        "isHome": false,
+        "productCard": "helium",
+        "layoutType": "classic"
+      },
+      "slug": "grocery",
+      "language": "en",
+      "icon": "FruitsVegetable",
+      "promotional_sliders": [
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+          "id": "902"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+          "id": "903"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+          "id": "904"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+          "id": "905"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+          "id": "906"
+        }
+      ],
+      "created_at": "2021-03-08T07:18:25.000000Z",
+      "updated_at": "2023-10-05T06:47:06.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 6,
+      "owner_id": 1,
+      "name": "Grocery Shop",
+      "slug": "grocery-shop",
+      "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+      "cover_image": {
+        "id": "894",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg"
+      },
+      "logo": {
+        "id": "893",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Freeport",
+        "state": "Illinois",
+        "zip": "61032",
+        "street_address": "1986  Spinnaker Lane"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "5619327220",
+        "website": "https://redq.io",
+        "socials": [
+          {
+            "icon": "FacebookIcon",
+            "url": "https://www.facebook.com/"
+          },
+          {
+            "icon": "InstagramIcon",
+            "url": "https://www.instagram.com/"
+          },
+          {
+            "icon": "TwitterIcon",
+            "url": "https://www.twitter.com/"
+          }
+        ],
+        "location": {
+          "lat": 38.9032325,
+          "lng": -77.0211068,
+          "city": "Washington",
+          "state": "DC",
+          "country": "United States",
+          "formattedAddress": "New York Ave NW, Washington, DC, USA"
+        }
+      },
+      "notifications": null,
+      "created_at": "2021-06-27T03:48:23.000000Z",
+      "updated_at": "2023-10-19T07:05:23.000000Z"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Celery Stick",
+    "slug": "celery-stick",
+    "description": "celery stick - celery stalks cut into small sticks. crudites - raw vegetables cut into bite-sized strips and served with a dip. celery - stalks eaten raw or cooked or used as seasoning.",
+    "type_id": 1,
+    "price": 6,
+    "shop_id": 6,
+    "sale_price": 5,
+    "language": "en",
+    "min_price": 6,
+    "max_price": 6,
+    "sku": "5",
+    "quantity": 18,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1lb",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "id": "5",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/5/CelerySticks.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/5/conversions/CelerySticks-thumbnail.jpg"
+    },
+    "video": null,
+    "gallery": [
+      {
+        "id": "585",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/584/Celery-Stick-1.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/584/conversions/Celery-Stick-1-thumbnail.jpg"
+      },
+      {
+        "id": "586",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/585/Celery-Stick-2.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/585/conversions/Celery-Stick-2-thumbnail.jpg"
+      },
+      {
+        "id": "587",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/586/Celery-Stick.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/586/conversions/Celery-Stick-thumbnail.jpg"
+      },
+      {
+        "id": "742",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/741/CelerySticks_ulljfz.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/741/conversions/CelerySticks_ulljfz-thumbnail.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2021-03-08T10:44:09.000000Z",
+    "updated_at": "2023-10-06T06:19:56.000000Z",
+    "author_id": null,
+    "manufacturer_id": null,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "orders_count": 4,
+    "ratings": 1.67,
+    "total_reviews": 3,
+    "rating_count": [
+      {
+        "rating": 3,
+        "total": 1,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      },
+      {
+        "rating": 1,
+        "total": 2,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      }
+    ],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 1,
+      "name": "Grocery",
+      "settings": {
+        "isHome": false,
+        "productCard": "helium",
+        "layoutType": "classic"
+      },
+      "slug": "grocery",
+      "language": "en",
+      "icon": "FruitsVegetable",
+      "promotional_sliders": [
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+          "id": "902"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+          "id": "903"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+          "id": "904"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+          "id": "905"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+          "id": "906"
+        }
+      ],
+      "created_at": "2021-03-08T07:18:25.000000Z",
+      "updated_at": "2023-10-05T06:47:06.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 6,
+      "owner_id": 1,
+      "name": "Grocery Shop",
+      "slug": "grocery-shop",
+      "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+      "cover_image": {
+        "id": "894",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg"
+      },
+      "logo": {
+        "id": "893",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Freeport",
+        "state": "Illinois",
+        "zip": "61032",
+        "street_address": "1986  Spinnaker Lane"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "5619327220",
+        "website": "https://redq.io",
+        "socials": [
+          {
+            "icon": "FacebookIcon",
+            "url": "https://www.facebook.com/"
+          },
+          {
+            "icon": "InstagramIcon",
+            "url": "https://www.instagram.com/"
+          },
+          {
+            "icon": "TwitterIcon",
+            "url": "https://www.twitter.com/"
+          }
+        ],
+        "location": {
+          "lat": 38.9032325,
+          "lng": -77.0211068,
+          "city": "Washington",
+          "state": "DC",
+          "country": "United States",
+          "formattedAddress": "New York Ave NW, Washington, DC, USA"
+        }
+      },
+      "notifications": null,
+      "created_at": "2021-06-27T03:48:23.000000Z",
+      "updated_at": "2023-10-19T07:05:23.000000Z"
+    }
+  },
+  {
+    "id": 888,
+    "name": "The Bedtime Stories Part One",
+    "slug": "the-sifi-third-part",
+    "description": "Children's literature or juvenile literature includes stories, books, magazines, and runes that are created for children. Ultramodern children's literature is classified in two different ways kidney or the intended age of the anthology.Children's literature can be traced to traditional stories like puck tales, that have only been linked as children\u2019s literature in the eighteenth century, and songs, part of a wider oral tradition, that grown-ups participated with children before publishing was.",
+    "type_id": 8,
+    "price": 100,
+    "shop_id": 7,
+    "sale_price": null,
+    "language": "en",
+    "min_price": 100,
+    "max_price": 100,
+    "sku": "5sad1fa654sd8g4sda4a89b51v 0",
+    "quantity": 500,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1 pc",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "id": 1672,
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1672/Children-Literature-2.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1672/conversions/Children-Literature-2-thumbnail.jpg"
+    },
+    "video": [],
+    "gallery": [],
+    "deleted_at": null,
+    "created_at": "2021-12-07T16:56:47.000000Z",
+    "updated_at": "2023-10-25T08:23:37.000000Z",
+    "author_id": 2,
+    "manufacturer_id": 2,
+    "is_digital": 1,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "orders_count": 4,
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 8,
+      "name": "Books",
+      "settings": {
+        "isHome": false,
+        "layoutType": "compact",
+        "productCard": "radon"
+      },
+      "slug": "books",
+      "language": "en",
+      "icon": "BookIcon",
+      "promotional_sliders": [],
+      "created_at": "2021-12-07T16:30:18.000000Z",
+      "updated_at": "2021-12-08T13:06:56.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 7,
+      "owner_id": 1,
+      "name": "Books Shop",
+      "slug": "books-shop",
+      "description": "This is the book shop. All the publications sells their book under this book shop",
+      "cover_image": {
+        "id": 1374,
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/Cover.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/conversions/Cover-thumbnail.jpg"
+      },
+      "logo": {
+        "id": 1613,
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/Publisher-logo.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/conversions/Publisher-logo-thumbnail.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "Switzerland",
+        "city": "zurich",
+        "state": "California",
+        "zip": "8021",
+        "street_address": "44444"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "7033542601",
+        "website": "demodemo.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2021-12-07T16:47:07.000000Z",
+      "updated_at": "2023-10-25T03:30:21.000000Z"
+    }
+  },
+  {
+    "id": 972,
+    "name": "NutriBlend Pro-Stage Baby Formula",
+    "slug": "nutriblend-pro-stage-baby-formula",
+    "description": "NutriBlend Pro-Stage Baby Formula is the result of decades of research and development, aiming to provide optimal nutrition for your baby's early stages of life. Our formula is carefully crafted to support healthy growth, strong immunity, and cognitive development.\nWe understand that the first year of life is crucial for your baby, and that's why we've incorporated a balanced blend of essential vitamins, minerals, and prebiotics to promote digestive health. NutriBlend Pro-Stage Baby Formula is easy to prepare and gentle on your baby's stomach, ensuring less fussiness and more contentment.\n\nTrust NutriBlend to be your partner in nourishing your baby's future, one bottle at a time.",
+    "type_id": 11,
+    "price": 32,
+    "shop_id": 11,
+    "sale_price": null,
+    "language": "en",
+    "min_price": 32,
+    "max_price": 32,
+    "sku": "44232",
+    "quantity": 344,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1 pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1854/conversions/Baby-care-4-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1854/Baby-care-4.jpg",
+      "id": 1854,
+      "file_name": "Baby-care-4.jpg"
+    },
+    "video": [],
+    "gallery": [
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1855/conversions/Baby-care-4-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1855/Baby-care-4.jpg",
+        "id": 1855,
+        "file_name": "Baby-care-4.jpg"
+      },
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1856/conversions/Baby-care-3-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1856/Baby-care-3.jpg",
+        "id": 1856,
+        "file_name": "Baby-care-3.jpg"
+      },
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1857/conversions/Mother-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1857/Mother.jpg",
+        "id": 1857,
+        "file_name": "Mother.jpg"
+      },
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1858/conversions/Mother-3-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1858/Mother-3.jpg",
+        "id": 1858,
+        "file_name": "Mother-3.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2023-10-03T10:28:29.000000Z",
+    "updated_at": "2023-10-03T10:28:29.000000Z",
+    "author_id": null,
+    "manufacturer_id": 18,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "orders_count": 4,
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "settings": {
+        "isHome": false,
+        "productCard": "xenon",
+        "layoutType": "classic"
+      },
+      "slug": "medicine",
+      "language": "en",
+      "icon": "MedicineIcon",
+      "promotional_sliders": [
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2333/conversions/banner01-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2333/banner01.png",
+          "id": 2336
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2334/conversions/banner02-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2334/banner02.png",
+          "id": 2337
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2335/conversions/banner03-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2335/banner03.png",
+          "id": 2338
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2336/conversions/banner04-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2336/banner04.png",
+          "id": 2339
+        }
+      ],
+      "created_at": "2023-10-02T17:44:12.000000Z",
+      "updated_at": "2023-10-24T19:39:36.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 11,
+      "owner_id": 1,
+      "name": "Medicine",
+      "slug": "medicine",
+      "description": null,
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1787/conversions/Medicine-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1787/Medicine-banner.png",
+        "id": 1787,
+        "file_name": "Medicine-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1786/conversions/Medicine-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1786/Medicine.jpg",
+        "id": 1786,
+        "file_name": "Medicine.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "United States",
+        "city": "Manhattan",
+        "state": "New York",
+        "zip": "12332",
+        "street_address": "East Avenue 1743, West Tower"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "8139982265",
+        "website": "test.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T17:42:55.000000Z",
+      "updated_at": "2023-10-19T07:02:38.000000Z"
+    }
+  },
+  {
+    "id": 973,
+    "name": "HappyNights Overnight Comfort Diapers",
+    "slug": "happynights-overnight-comfort-diapers-Zsl",
+    "description": "HappyNights Overnight Comfort Diapers are specially designed to provide your baby with a blissful night's sleep. With a focus on overnight dryness, these diapers feature an extra-absorbent core that locks away wetness for up to 12 hours. The ultra-breathable and soft fabric ensures your baby stays cozy and irritation-free throughout the night. The convenient wetness indicator changes color to let you know when it's time for a diaper change, allowing both you and your baby to enjoy undisturbed rest. Choose HappyNights for peaceful nights and happy mornings.",
+    "type_id": 11,
+    "price": null,
+    "shop_id": 11,
+    "sale_price": null,
+    "language": "en",
+    "min_price": 70,
+    "max_price": 80,
+    "sku": null,
+    "quantity": 1107,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "variable",
+    "unit": "6 pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1859/conversions/Baby-care-1-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1859/Baby-care-1.jpg",
+      "id": 1859,
+      "file_name": "Baby-care-1.jpg"
+    },
+    "video": [],
+    "gallery": [
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1860/conversions/Baby-care-1-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1860/Baby-care-1.jpg",
+        "id": 1860,
+        "file_name": "Baby-care-1.jpg"
+      },
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1861/conversions/Baby-care-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1861/Baby-care.jpg",
+        "id": 1861,
+        "file_name": "Baby-care.jpg"
+      },
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1862/conversions/Baby-care-2-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1862/Baby-care-2.jpg",
+        "id": 1862,
+        "file_name": "Baby-care-2.jpg"
+      },
+      {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1863/conversions/Mother-5-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1863/Mother-5.jpg",
+        "id": 1863,
+        "file_name": "Mother-5.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2023-10-03T10:31:23.000000Z",
+    "updated_at": "2023-10-12T04:12:27.000000Z",
+    "author_id": null,
+    "manufacturer_id": 19,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "orders_count": 4,
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "settings": {
+        "isHome": false,
+        "productCard": "xenon",
+        "layoutType": "classic"
+      },
+      "slug": "medicine",
+      "language": "en",
+      "icon": "MedicineIcon",
+      "promotional_sliders": [
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2333/conversions/banner01-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2333/banner01.png",
+          "id": 2336
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2334/conversions/banner02-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2334/banner02.png",
+          "id": 2337
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2335/conversions/banner03-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2335/banner03.png",
+          "id": 2338
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2336/conversions/banner04-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2336/banner04.png",
+          "id": 2339
+        }
+      ],
+      "created_at": "2023-10-02T17:44:12.000000Z",
+      "updated_at": "2023-10-24T19:39:36.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 11,
+      "owner_id": 1,
+      "name": "Medicine",
+      "slug": "medicine",
+      "description": null,
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1787/conversions/Medicine-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1787/Medicine-banner.png",
+        "id": 1787,
+        "file_name": "Medicine-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1786/conversions/Medicine-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1786/Medicine.jpg",
+        "id": 1786,
+        "file_name": "Medicine.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "United States",
+        "city": "Manhattan",
+        "state": "New York",
+        "zip": "12332",
+        "street_address": "East Avenue 1743, West Tower"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "8139982265",
+        "website": "test.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T17:42:55.000000Z",
+      "updated_at": "2023-10-19T07:02:38.000000Z"
+    }
+  },
+  {
+    "id": 976,
+    "name": "ShieldMax Ultra Respirator Mask",
+    "slug": "shieldmax-ultra-respirator-mask",
+    "description": "The ShieldMax Ultra Respirator Mask is your ultimate defense against airborne contaminants, providing superior protection without compromising comfort. Engineered with advanced filtration technology and user-centric design, this mask offers a shield of confidence in any environment.\n\nCrafted from high-quality, hypoallergenic materials, the ShieldMax Ultra is gentle on your skin, making it suitable for extended wear. The mask's multi-layer filtration system effectively blocks out particles, allergens, dust, bacteria, and viruses, including the tiniest airborne particles. With its N95-grade filtration efficiency, it provides a robust barrier against pollutants, giving you peace of mind wherever you go.\n\nThe ergonomic design of the ShieldMax Ultra ensures a secure and comfortable fit. Its adjustable nose bridge and soft, elastic ear loops guarantee a snug seal, preventing air leakage and minimizing fogging for those who wear glasses. The breathable fabric and low-resistance airflow design make it effortless to breathe, even during prolonged use.\n\nThe ShieldMax Ultra Respirator Mask is versatile and suitable for various situations, from daily commutes to crowded public spaces, travel, and healthcare settings. Its foldable and portable design allows you to carry it with ease, ensuring you're protected whenever you need it.\n\nPrioritize safety and well-being with the ShieldMax Ultra Respirator Mask, your trusted companion for shielding against airborne threats and breathing easy in a world where protection matters most.",
+    "type_id": 11,
+    "price": null,
+    "shop_id": 11,
+    "sale_price": null,
+    "language": "en",
+    "min_price": 12,
+    "max_price": 18,
+    "sku": null,
+    "quantity": 3093,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "variable",
+    "unit": "35 pcs",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1874/conversions/medicine-%26-first-aid-4-thumbnail.jpg",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1874/medicine-%26-first-aid-4.jpg",
+      "id": 1874,
+      "file_name": "medicine-%26-first-aid-4.jpg"
+    },
+    "video": [],
+    "gallery": [],
+    "deleted_at": null,
+    "created_at": "2023-10-03T10:39:49.000000Z",
+    "updated_at": "2023-10-12T04:17:01.000000Z",
+    "author_id": null,
+    "manufacturer_id": 19,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "orders_count": 4,
+    "ratings": 0,
+    "total_reviews": 0,
+    "rating_count": [],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 11,
+      "name": "Medicine",
+      "settings": {
+        "isHome": false,
+        "productCard": "xenon",
+        "layoutType": "classic"
+      },
+      "slug": "medicine",
+      "language": "en",
+      "icon": "MedicineIcon",
+      "promotional_sliders": [
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2333/conversions/banner01-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2333/banner01.png",
+          "id": 2336
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2334/conversions/banner02-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2334/banner02.png",
+          "id": 2337
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2335/conversions/banner03-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2335/banner03.png",
+          "id": 2338
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2336/conversions/banner04-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2336/banner04.png",
+          "id": 2339
+        }
+      ],
+      "created_at": "2023-10-02T17:44:12.000000Z",
+      "updated_at": "2023-10-24T19:39:36.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 11,
+      "owner_id": 1,
+      "name": "Medicine",
+      "slug": "medicine",
+      "description": null,
+      "cover_image": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1787/conversions/Medicine-banner-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1787/Medicine-banner.png",
+        "id": 1787,
+        "file_name": "Medicine-banner.png"
+      },
+      "logo": {
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1786/conversions/Medicine-thumbnail.jpg",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1786/Medicine.jpg",
+        "id": 1786,
+        "file_name": "Medicine.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "United States",
+        "city": "Manhattan",
+        "state": "New York",
+        "zip": "12332",
+        "street_address": "East Avenue 1743, West Tower"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "8139982265",
+        "website": "test.com",
+        "location": [],
+        "socials": []
+      },
+      "notifications": null,
+      "created_at": "2023-10-02T17:42:55.000000Z",
+      "updated_at": "2023-10-19T07:02:38.000000Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Baby Spinach",
+    "slug": "baby-spinach",
+    "description": "Spinach (Spinacia oleracea) is a leafy green flowering plant native to central and western Asia. It is of the order Caryophyllales, family Amaranthaceae, subfamily Chenopodioideae. Its leaves are a common edible vegetable consumed either fresh.",
+    "type_id": 1,
+    "price": 0.6,
+    "shop_id": 6,
+    "sale_price": null,
+    "language": "en",
+    "min_price": 0.6,
+    "max_price": 0.6,
+    "sku": "2",
+    "quantity": 10,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 0,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "2lb",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "id": "2",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2/BabySpinach.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/2/conversions/BabySpinach-thumbnail.jpg"
+    },
+    "video": null,
+    "gallery": [
+      {
+        "id": "576",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/575/baby-spinach-1.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/575/conversions/baby-spinach-1-thumbnail.jpg"
+      },
+      {
+        "id": "577",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/576/baby-spinach-2.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/576/conversions/baby-spinach-2-thumbnail.jpg"
+      },
+      {
+        "id": "578",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/577/baby-spinach.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/577/conversions/baby-spinach-thumbnail.jpg"
+      },
+      {
+        "id": "738",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/737/BabySpinach_xronqz.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/737/conversions/BabySpinach_xronqz-thumbnail.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2021-03-08T10:26:13.000000Z",
+    "updated_at": "2023-11-10T03:12:29.000000Z",
+    "author_id": null,
+    "manufacturer_id": null,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "orders_count": 2,
+    "ratings": 3.33,
+    "total_reviews": 3,
+    "rating_count": [
+      {
+        "rating": 4,
+        "total": 1,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      },
+      {
+        "rating": 3,
+        "total": 2,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      }
+    ],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 1,
+      "name": "Grocery",
+      "settings": {
+        "isHome": false,
+        "productCard": "helium",
+        "layoutType": "classic"
+      },
+      "slug": "grocery",
+      "language": "en",
+      "icon": "FruitsVegetable",
+      "promotional_sliders": [
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+          "id": "902"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+          "id": "903"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+          "id": "904"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+          "id": "905"
+        },
+        {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+          "id": "906"
+        }
+      ],
+      "created_at": "2021-03-08T07:18:25.000000Z",
+      "updated_at": "2023-10-05T06:47:06.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 6,
+      "owner_id": 1,
+      "name": "Grocery Shop",
+      "slug": "grocery-shop",
+      "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+      "cover_image": {
+        "id": "894",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg"
+      },
+      "logo": {
+        "id": "893",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Freeport",
+        "state": "Illinois",
+        "zip": "61032",
+        "street_address": "1986  Spinnaker Lane"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "5619327220",
+        "website": "https://redq.io",
+        "socials": [
+          {
+            "icon": "FacebookIcon",
+            "url": "https://www.facebook.com/"
+          },
+          {
+            "icon": "InstagramIcon",
+            "url": "https://www.instagram.com/"
+          },
+          {
+            "icon": "TwitterIcon",
+            "url": "https://www.twitter.com/"
+          }
+        ],
+        "location": {
+          "lat": 38.9032325,
+          "lng": -77.0211068,
+          "city": "Washington",
+          "state": "DC",
+          "country": "United States",
+          "formattedAddress": "New York Ave NW, Washington, DC, USA"
+        }
+      },
+      "notifications": null,
+      "created_at": "2021-06-27T03:48:23.000000Z",
+      "updated_at": "2023-10-19T07:05:23.000000Z"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Clarins Everlasting Compact Foundation",
+    "slug": "clarins-everlasting-compact-foundation",
+    "description": "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
+    "type_id": 3,
+    "price": 54,
+    "shop_id": 4,
+    "sale_price": null,
+    "language": "en",
+    "min_price": 54,
+    "max_price": 54,
+    "sku": "1005",
+    "quantity": 60,
+    "sold_quantity": 0,
+    "in_stock": 1,
+    "is_taxable": 0,
+    "in_flash_sale": 1,
+    "shipping_class_id": null,
+    "status": "publish",
+    "product_type": "simple",
+    "unit": "1pc(s)",
+    "height": null,
+    "width": null,
+    "length": null,
+    "image": {
+      "id": "26",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/26/Clarins.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/26/conversions/Clarins-thumbnail.jpg"
+    },
+    "video": null,
+    "gallery": [
+      {
+        "id": "656",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/655/Bourjois-Little-Round-Pot-Blusher-1.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/655/conversions/Bourjois-Little-Round-Pot-Blusher-1-thumbnail.jpg"
+      },
+      {
+        "id": "657",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/656/Bourjois-Little-Round-Pot-Blusher-2.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/656/conversions/Bourjois-Little-Round-Pot-Blusher-2-thumbnail.jpg"
+      },
+      {
+        "id": "660",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/659/Blusher-2.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/659/conversions/Blusher-2-thumbnail.jpg"
+      },
+      {
+        "id": "764",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/763/Clarins.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/763/conversions/Clarins-thumbnail.jpg"
+      }
+    ],
+    "deleted_at": null,
+    "created_at": "2021-03-09T06:31:30.000000Z",
+    "updated_at": "2023-11-10T03:12:29.000000Z",
+    "author_id": null,
+    "manufacturer_id": null,
+    "is_digital": 0,
+    "is_external": 0,
+    "external_product_url": null,
+    "external_product_button_text": null,
+    "blocked_dates": [],
+    "orders_count": 2,
+    "ratings": 1,
+    "total_reviews": 1,
+    "rating_count": [
+      {
+        "rating": 1,
+        "total": 1,
+        "positive_feedbacks_count": 0,
+        "negative_feedbacks_count": 0,
+        "my_feedback": null,
+        "abusive_reports_count": 0
+      }
+    ],
+    "my_review": null,
+    "in_wishlist": false,
+    "translated_languages": ["en"],
+    "type": {
+      "id": 3,
+      "name": "Makeup",
+      "settings": {
+        "isHome": false,
+        "layoutType": "classic",
+        "productCard": "helium"
+      },
+      "slug": "makeup",
+      "language": "en",
+      "icon": "FacialCare",
+      "promotional_sliders": [
+        {
+          "id": 902,
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+        },
+        {
+          "id": 903,
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+        },
+        {
+          "id": 904,
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+        },
+        {
+          "id": 905,
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+        },
+        {
+          "id": 906,
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+        }
+      ],
+      "created_at": "2021-03-08T07:19:12.000000Z",
+      "updated_at": "2021-08-18T13:35:43.000000Z",
+      "translated_languages": ["en"]
+    },
+    "shop": {
+      "id": 4,
+      "owner_id": 1,
+      "name": "Makeup Shop",
+      "slug": "makeup-shop",
+      "description": "The makeup shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+      "cover_image": {
+        "id": "890",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/888/Untitled-3.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/888/conversions/Untitled-3-thumbnail.jpg"
+      },
+      "logo": {
+        "id": "891",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/Makeup.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/conversions/Makeup-thumbnail.jpg"
+      },
+      "is_active": 1,
+      "address": {
+        "country": "USA",
+        "city": "Metairie",
+        "state": "Louisiana",
+        "zip": "70001",
+        "street_address": "2960  Rose Avenue"
+      },
+      "settings": {
+        "notifications": {
+          "email": null
+        },
+        "contact": "7196321822",
+        "website": "https://redq.io",
+        "socials": [
+          {
+            "icon": "InstagramIcon",
+            "url": "https://www.instagram.com/"
+          },
+          {
+            "icon": "TwitterIcon",
+            "url": "https://www.twitter.com/"
+          }
+        ],
+        "location": {
+          "lat": 51.5176117,
+          "lng": -0.210149,
+          "state": "England",
+          "country": "United Kingdom",
+          "formattedAddress": "Ladbroke Grove, London, UK"
+        }
+      },
+      "notifications": null,
+      "created_at": "2021-06-27T03:47:49.000000Z",
+      "updated_at": "2023-10-19T07:04:43.000000Z"
+    }
+  }
+]

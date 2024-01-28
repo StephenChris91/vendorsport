@@ -1,0 +1,1331 @@
+[
+  {
+    "id": 3,
+    "name": "Jhon Doe",
+    "email": "admin@demo.com",
+    "email_verified_at": "2023-11-12T10:59:14.000000Z",
+    "created_at": "2023-11-12T10:59:14.000000Z",
+    "updated_at": "2023-11-12T10:59:14.000000Z",
+    "is_active": 1,
+    "shop_id": null,
+    "email_verified": true,
+    "profile": null,
+    "address": [],
+    "permissions": [
+      {
+        "id": 1,
+        "name": "super_admin",
+        "guard_name": "api",
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "pivot": {
+          "model_id": 6,
+          "permission_id": 1,
+          "model_type": "Marvel\\Database\\Models\\User"
+        }
+      },
+      {
+        "id": 2,
+        "name": "customer",
+        "guard_name": "api",
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "pivot": {
+          "model_id": 6,
+          "permission_id": 2,
+          "model_type": "Marvel\\Database\\Models\\User"
+        }
+      },
+      {
+        "id": 3,
+        "name": "store_owner",
+        "guard_name": "api",
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "pivot": {
+          "model_id": 6,
+          "permission_id": 3,
+          "model_type": "Marvel\\Database\\Models\\User"
+        }
+      }
+    ],
+    "wallet": null,
+    "shops": [
+      {
+        "id": 1,
+        "owner_id": 1,
+        "name": "Furniture Shop",
+        "slug": "furniture-shop",
+        "description": "The furniture shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "885",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/883/Untitled-6.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/883/conversions/Untitled-6-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "884",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/882/Furniture.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/882/conversions/Furniture-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "zip": "08753",
+          "city": "East Dover",
+          "state": "New Jersey",
+          "country": "USA",
+          "street_address": "588  Finwood Road"
+        },
+        "settings": {
+          "contact": "21342121221",
+          "socials": [
+            {
+              "url": "https://www.instagram.com/",
+              "icon": "InstagramIcon"
+            }
+          ],
+          "website": "https://redq.io/",
+          "location": {
+            "lat": 40.757272,
+            "lng": -74.089508,
+            "city": "Kearny",
+            "state": "NJ",
+            "country": "United States",
+            "formattedAddress": "New Jersey Turnpike, Kearny, NJ, USA"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:46:14.000000Z",
+        "updated_at": "2023-10-12T04:40:13.000000Z",
+        "balance": {
+          "id": 1,
+          "shop_id": 1,
+          "admin_commission_rate": 10,
+          "total_earnings": 1233,
+          "withdrawn_amount": 0,
+          "current_balance": 1233,
+          "payment_info": {
+            "bank": "Bank1",
+            "name": "furniture shop",
+            "email": "furniture@demo.com",
+            "account": 1121213131414141
+          },
+          "created_at": "2021-06-27T08:54:32.000000Z",
+          "updated_at": "2023-10-25T05:44:37.000000Z"
+        }
+      },
+      {
+        "id": 2,
+        "owner_id": 1,
+        "name": "Clothing Shop",
+        "slug": "clothing-shop",
+        "description": "The clothing shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "886",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/884/Untitled-4.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/884/conversions/Untitled-4-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "896",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/894/fashion.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/894/conversions/fashion-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "USA",
+          "city": "Lincoln",
+          "state": "Illinois",
+          "zip": "62656",
+          "street_address": "4885  Spring Street"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "212901921221",
+          "website": "https://redq.io",
+          "socials": [
+            {
+              "icon": "FacebookIcon",
+              "url": "https://www.facebook.com/"
+            }
+          ],
+          "location": {
+            "lat": 40.1576691,
+            "lng": -89.38529779999999,
+            "city": "Lincoln",
+            "state": "IL",
+            "country": "United States",
+            "formattedAddress": "IL-121, Lincoln, IL, USA"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:47:10.000000Z",
+        "updated_at": "2023-10-19T06:51:41.000000Z",
+        "balance": {
+          "id": 8,
+          "shop_id": 2,
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "name": "Clothing Shop",
+            "email": "clothing@demo.com",
+            "bank": "Bank2",
+            "account": 1236521002454
+          },
+          "created_at": "2021-06-28T03:50:04.000000Z",
+          "updated_at": "2023-10-19T06:51:41.000000Z"
+        }
+      },
+      {
+        "id": 3,
+        "owner_id": 1,
+        "name": "Bags Shop",
+        "slug": "bags-shop",
+        "description": "The Bag shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "889",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/887/Untitled-1-%281%29.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/887/conversions/Untitled-1-%281%29-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "888",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/886/Backpack.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/886/conversions/Backpack-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "USA",
+          "city": "Michigan",
+          "state": "Alabama",
+          "zip": "35203",
+          "street_address": "1740  Bedford Street"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "212901921221",
+          "website": "https://redq.io",
+          "socials": [
+            {
+              "icon": "FacebookIcon",
+              "url": "https://www.facebook.com/"
+            },
+            {
+              "icon": "InstagramIcon",
+              "url": "https://www.instagram.com/"
+            }
+          ],
+          "location": {
+            "lat": -37.1374024,
+            "lng": 174.9685924,
+            "zip": "2579",
+            "city": "Ramarama",
+            "state": "Auckland",
+            "country": "New Zealand",
+            "formattedAddress": "Waharau Lane, Ramarama 2579, New Zealand"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:47:23.000000Z",
+        "updated_at": "2023-10-19T06:52:14.000000Z",
+        "balance": {
+          "id": 7,
+          "shop_id": 3,
+          "admin_commission_rate": 10,
+          "total_earnings": 369,
+          "withdrawn_amount": 0,
+          "current_balance": 369,
+          "payment_info": {
+            "name": "Bag Shop",
+            "email": "bag@demo.com",
+            "bank": "Bank3",
+            "account": 632145987000364
+          },
+          "created_at": "2021-06-28T03:50:00.000000Z",
+          "updated_at": "2023-10-25T05:36:20.000000Z"
+        }
+      },
+      {
+        "id": 4,
+        "owner_id": 1,
+        "name": "Makeup Shop",
+        "slug": "makeup-shop",
+        "description": "The makeup shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "890",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/888/Untitled-3.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/888/conversions/Untitled-3-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "891",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/Makeup.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/conversions/Makeup-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "USA",
+          "city": "Metairie",
+          "state": "Louisiana",
+          "zip": "70001",
+          "street_address": "2960  Rose Avenue"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "7196321822",
+          "website": "https://redq.io",
+          "socials": [
+            {
+              "icon": "InstagramIcon",
+              "url": "https://www.instagram.com/"
+            },
+            {
+              "icon": "TwitterIcon",
+              "url": "https://www.twitter.com/"
+            }
+          ],
+          "location": {
+            "lat": 51.5176117,
+            "lng": -0.210149,
+            "state": "England",
+            "country": "United Kingdom",
+            "formattedAddress": "Ladbroke Grove, London, UK"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:47:49.000000Z",
+        "updated_at": "2023-10-19T07:04:43.000000Z",
+        "balance": {
+          "id": 6,
+          "shop_id": 4,
+          "admin_commission_rate": 10,
+          "total_earnings": 167.4,
+          "withdrawn_amount": 0,
+          "current_balance": 167.4,
+          "payment_info": {
+            "name": "Makeup Shop",
+            "email": "makeup@demo.com",
+            "bank": "Bank4",
+            "account": 5621030364876100000
+          },
+          "created_at": "2021-06-28T03:49:56.000000Z",
+          "updated_at": "2023-10-25T05:33:59.000000Z"
+        }
+      },
+      {
+        "id": 5,
+        "owner_id": 1,
+        "name": "Bakery Shop",
+        "slug": "bakery-shop",
+        "description": "The bakery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "895",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/893/Untitled-5.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/893/conversions/Untitled-5-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "892",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/890/bakery.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/890/conversions/bakery-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "zip": "27801",
+          "city": "Rocky Mount",
+          "state": "Carolina",
+          "country": "USA",
+          "street_address": "4422  Fort Street"
+        },
+        "settings": {
+          "contact": "12902232121",
+          "socials": [
+            {
+              "url": "https://www.facebook.com/",
+              "icon": "FacebookIcon"
+            },
+            {
+              "url": "https://www.instagram.com/",
+              "icon": "InstagramIcon"
+            }
+          ],
+          "website": "https://redq.io/",
+          "location": {
+            "lat": 40.7315115,
+            "lng": -73.99582730000002,
+            "city": "New York",
+            "state": "NY",
+            "country": "United States",
+            "formattedAddress": "Washington Mews, New York, NY, USA"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:48:11.000000Z",
+        "updated_at": "2023-10-12T04:44:06.000000Z",
+        "balance": {
+          "id": 5,
+          "shop_id": 5,
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "bank": "Bank5",
+            "name": "Bakery Shop",
+            "email": "bakery@demo.com",
+            "account": 86453213548641330
+          },
+          "created_at": "2021-06-28T03:49:25.000000Z",
+          "updated_at": "2021-06-30T14:23:05.000000Z"
+        }
+      },
+      {
+        "id": 6,
+        "owner_id": 1,
+        "name": "Grocery Shop",
+        "slug": "grocery-shop",
+        "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "894",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "893",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "USA",
+          "city": "Freeport",
+          "state": "Illinois",
+          "zip": "61032",
+          "street_address": "1986  Spinnaker Lane"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "5619327220",
+          "website": "https://redq.io",
+          "socials": [
+            {
+              "icon": "FacebookIcon",
+              "url": "https://www.facebook.com/"
+            },
+            {
+              "icon": "InstagramIcon",
+              "url": "https://www.instagram.com/"
+            },
+            {
+              "icon": "TwitterIcon",
+              "url": "https://www.twitter.com/"
+            }
+          ],
+          "location": {
+            "lat": 38.9032325,
+            "lng": -77.0211068,
+            "city": "Washington",
+            "state": "DC",
+            "country": "United States",
+            "formattedAddress": "New York Ave NW, Washington, DC, USA"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:48:23.000000Z",
+        "updated_at": "2023-10-19T07:05:23.000000Z",
+        "balance": {
+          "id": 4,
+          "shop_id": 6,
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "name": "Grocery Shop",
+            "email": "grocery@demo.com",
+            "bank": "Bank6",
+            "account": 231321635465465
+          },
+          "created_at": "2021-06-28T03:48:49.000000Z",
+          "updated_at": "2023-10-19T07:05:23.000000Z"
+        }
+      },
+      {
+        "id": 7,
+        "owner_id": 1,
+        "name": "Books Shop",
+        "slug": "books-shop",
+        "description": "This is the book shop. All the publications sells their book under this book shop",
+        "cover_image": {
+          "id": 1374,
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/Cover.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/conversions/Cover-thumbnail.jpg"
+        },
+        "logo": {
+          "id": 1613,
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/Publisher-logo.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/conversions/Publisher-logo-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "Switzerland",
+          "city": "zurich",
+          "state": "California",
+          "zip": "8021",
+          "street_address": "44444"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "7033542601",
+          "website": "demodemo.com",
+          "location": [],
+          "socials": []
+        },
+        "notifications": null,
+        "created_at": "2021-12-07T16:47:07.000000Z",
+        "updated_at": "2023-10-25T03:30:21.000000Z",
+        "balance": {
+          "id": 9,
+          "shop_id": 7,
+          "admin_commission_rate": 10,
+          "total_earnings": 1030.5,
+          "withdrawn_amount": 0,
+          "current_balance": 1030.5,
+          "payment_info": {
+            "name": "book shop",
+            "email": "admin@example.com",
+            "bank": "book bank",
+            "account": 123456789
+          },
+          "created_at": "2021-12-07T16:47:07.000000Z",
+          "updated_at": "2023-10-16T04:27:06.000000Z"
+        }
+      },
+      {
+        "id": 9,
+        "owner_id": 1,
+        "name": "Gadget",
+        "slug": "gadget",
+        "description": "The Gadget shop is the best shop in the city. This is being run under the store owner and our aim is to provide quality product and hassle-free customer service.",
+        "cover_image": {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/conversions/Gadget-banner-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/Gadget-banner.png",
+          "id": 1723,
+          "file_name": "Gadget-banner.png"
+        },
+        "logo": {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/conversions/Gadget-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/Gadget.jpg",
+          "id": 1722,
+          "file_name": "Gadget.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "USA",
+          "city": "Michigan",
+          "state": "Alabama",
+          "zip": "35203",
+          "street_address": "1740  Bedford Street"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "7708140768",
+          "website": "test-site.com",
+          "location": [],
+          "socials": []
+        },
+        "notifications": null,
+        "created_at": "2023-10-02T08:38:16.000000Z",
+        "updated_at": "2023-10-19T06:54:37.000000Z",
+        "balance": {
+          "id": 11,
+          "shop_id": 9,
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "name": "John Doe",
+            "email": "john_doe@example.com",
+            "bank": "Bank of Huam",
+            "account": 1127862923231234
+          },
+          "created_at": "2023-10-02T08:38:16.000000Z",
+          "updated_at": "2023-10-02T12:36:01.000000Z"
+        }
+      },
+      {
+        "id": 11,
+        "owner_id": 1,
+        "name": "Medicine",
+        "slug": "medicine",
+        "description": null,
+        "cover_image": {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1787/conversions/Medicine-banner-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1787/Medicine-banner.png",
+          "id": 1787,
+          "file_name": "Medicine-banner.png"
+        },
+        "logo": {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1786/conversions/Medicine-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1786/Medicine.jpg",
+          "id": 1786,
+          "file_name": "Medicine.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "United States",
+          "city": "Manhattan",
+          "state": "New York",
+          "zip": "12332",
+          "street_address": "East Avenue 1743, West Tower"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "8139982265",
+          "website": "test.com",
+          "location": [],
+          "socials": []
+        },
+        "notifications": null,
+        "created_at": "2023-10-02T17:42:55.000000Z",
+        "updated_at": "2023-10-19T07:02:38.000000Z",
+        "balance": {
+          "id": 13,
+          "shop_id": 11,
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "name": "Robert Stone",
+            "email": "rob.stone@example.com",
+            "bank": "Bank of California",
+            "account": 132314234543
+          },
+          "created_at": "2023-10-02T17:42:55.000000Z",
+          "updated_at": "2023-10-16T04:28:26.000000Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Customer",
+    "email": "customer@demo.com",
+    "email_verified_at": null,
+    "created_at": "2021-08-18T10:30:29.000000Z",
+    "updated_at": "2021-08-18T13:17:53.000000Z",
+    "is_active": 1,
+    "shop_id": null,
+    "email_verified": false,
+    "profile": {
+      "id": 2,
+      "avatar": {
+        "id": 1692,
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1692/author-img-%281%29.jpg",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1692/conversions/author-img-%281%29-thumbnail.jpg"
+      },
+      "bio": null,
+      "socials": null,
+      "contact": "19365141641631",
+      "notifications": null,
+      "customer_id": 2,
+      "created_at": "2021-08-18T13:17:53.000000Z",
+      "updated_at": "2022-03-17T08:25:26.000000Z"
+    },
+    "address": [
+      {
+        "id": 1,
+        "title": "Billing",
+        "type": "billing",
+        "default": 0,
+        "address": {
+          "zip": "99614",
+          "city": "Kipnuk",
+          "state": "AK",
+          "country": "United States",
+          "street_address": "2231 Kidd Avenue"
+        },
+        "location": null,
+        "customer_id": 2,
+        "created_at": "2021-08-18T13:18:03.000000Z",
+        "updated_at": "2021-08-18T13:18:03.000000Z"
+      },
+      {
+        "id": 2,
+        "title": "Shipping",
+        "type": "shipping",
+        "default": 0,
+        "address": {
+          "zip": "40391",
+          "city": "Winchester",
+          "state": "KY",
+          "country": "United States",
+          "street_address": "2148  Straford Park"
+        },
+        "location": null,
+        "customer_id": 2,
+        "created_at": "2021-08-18T13:18:12.000000Z",
+        "updated_at": "2021-08-18T13:18:12.000000Z"
+      }
+    ],
+    "permissions": [
+      {
+        "id": 2,
+        "name": "customer",
+        "guard_name": "api",
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "pivot": {
+          "model_id": 2,
+          "permission_id": 2,
+          "model_type": "Marvel\\Database\\Models\\User"
+        }
+      }
+    ],
+    "wallet": {
+      "id": 2,
+      "total_points": 1090,
+      "points_used": 0,
+      "available_points": 1090,
+      "customer_id": 2,
+      "created_at": "2023-11-13T04:00:47.000000Z",
+      "updated_at": "2023-11-13T04:02:32.000000Z"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Store Owner",
+    "email": "store_owner@demo.com",
+    "email_verified_at": null,
+    "created_at": "2021-06-27T04:13:00.000000Z",
+    "updated_at": "2023-10-02T06:53:37.000000Z",
+    "is_active": 1,
+    "shop_id": null,
+    "email_verified": false,
+    "profile": {
+      "id": 1,
+      "avatar": {
+        "id": "883",
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/881/aatik-tasneem-7omHUGhhmZ0-unsplash%402x.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/881/conversions/aatik-tasneem-7omHUGhhmZ0-unsplash%402x-thumbnail.jpg"
+      },
+      "bio": "This is the store owner and we have 6 shops under our banner. We are running all the shops to give our customers hassle-free service and quality products. Our goal is to provide best possible customer service and products for our clients",
+      "socials": null,
+      "contact": "12365141641631",
+      "notifications": null,
+      "customer_id": 1,
+      "created_at": "2021-06-30T11:20:29.000000Z",
+      "updated_at": "2021-06-30T14:13:53.000000Z"
+    },
+    "address": [],
+    "permissions": [
+      {
+        "id": 2,
+        "name": "customer",
+        "guard_name": "api",
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "pivot": {
+          "model_id": 1,
+          "permission_id": 2,
+          "model_type": "Marvel\\Database\\Models\\User"
+        }
+      },
+      {
+        "id": 3,
+        "name": "store_owner",
+        "guard_name": "api",
+        "created_at": "2021-06-27T04:13:00.000000Z",
+        "updated_at": "2021-06-27T04:13:00.000000Z",
+        "pivot": {
+          "model_id": 1,
+          "permission_id": 3,
+          "model_type": "Marvel\\Database\\Models\\User"
+        }
+      }
+    ],
+    "wallet": null,
+    "shops": [
+      {
+        "id": 1,
+        "owner_id": 1,
+        "name": "Furniture Shop",
+        "slug": "furniture-shop",
+        "description": "The furniture shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "885",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/883/Untitled-6.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/883/conversions/Untitled-6-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "884",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/882/Furniture.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/882/conversions/Furniture-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "zip": "08753",
+          "city": "East Dover",
+          "state": "New Jersey",
+          "country": "USA",
+          "street_address": "588  Finwood Road"
+        },
+        "settings": {
+          "contact": "21342121221",
+          "socials": [
+            {
+              "url": "https://www.instagram.com/",
+              "icon": "InstagramIcon"
+            }
+          ],
+          "website": "https://redq.io/",
+          "location": {
+            "lat": 40.757272,
+            "lng": -74.089508,
+            "city": "Kearny",
+            "state": "NJ",
+            "country": "United States",
+            "formattedAddress": "New Jersey Turnpike, Kearny, NJ, USA"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:46:14.000000Z",
+        "updated_at": "2023-10-12T04:40:13.000000Z",
+        "balance": {
+          "id": 1,
+          "shop_id": 1,
+          "admin_commission_rate": 10,
+          "total_earnings": 1233,
+          "withdrawn_amount": 0,
+          "current_balance": 1233,
+          "payment_info": {
+            "bank": "Bank1",
+            "name": "furniture shop",
+            "email": "furniture@demo.com",
+            "account": 1121213131414141
+          },
+          "created_at": "2021-06-27T08:54:32.000000Z",
+          "updated_at": "2023-10-25T05:44:37.000000Z"
+        }
+      },
+      {
+        "id": 2,
+        "owner_id": 1,
+        "name": "Clothing Shop",
+        "slug": "clothing-shop",
+        "description": "The clothing shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "886",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/884/Untitled-4.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/884/conversions/Untitled-4-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "896",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/894/fashion.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/894/conversions/fashion-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "USA",
+          "city": "Lincoln",
+          "state": "Illinois",
+          "zip": "62656",
+          "street_address": "4885  Spring Street"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "212901921221",
+          "website": "https://redq.io",
+          "socials": [
+            {
+              "icon": "FacebookIcon",
+              "url": "https://www.facebook.com/"
+            }
+          ],
+          "location": {
+            "lat": 40.1576691,
+            "lng": -89.38529779999999,
+            "city": "Lincoln",
+            "state": "IL",
+            "country": "United States",
+            "formattedAddress": "IL-121, Lincoln, IL, USA"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:47:10.000000Z",
+        "updated_at": "2023-10-19T06:51:41.000000Z",
+        "balance": {
+          "id": 8,
+          "shop_id": 2,
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "name": "Clothing Shop",
+            "email": "clothing@demo.com",
+            "bank": "Bank2",
+            "account": 1236521002454
+          },
+          "created_at": "2021-06-28T03:50:04.000000Z",
+          "updated_at": "2023-10-19T06:51:41.000000Z"
+        }
+      },
+      {
+        "id": 3,
+        "owner_id": 1,
+        "name": "Bags Shop",
+        "slug": "bags-shop",
+        "description": "The Bag shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "889",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/887/Untitled-1-%281%29.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/887/conversions/Untitled-1-%281%29-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "888",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/886/Backpack.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/886/conversions/Backpack-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "USA",
+          "city": "Michigan",
+          "state": "Alabama",
+          "zip": "35203",
+          "street_address": "1740  Bedford Street"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "212901921221",
+          "website": "https://redq.io",
+          "socials": [
+            {
+              "icon": "FacebookIcon",
+              "url": "https://www.facebook.com/"
+            },
+            {
+              "icon": "InstagramIcon",
+              "url": "https://www.instagram.com/"
+            }
+          ],
+          "location": {
+            "lat": -37.1374024,
+            "lng": 174.9685924,
+            "zip": "2579",
+            "city": "Ramarama",
+            "state": "Auckland",
+            "country": "New Zealand",
+            "formattedAddress": "Waharau Lane, Ramarama 2579, New Zealand"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:47:23.000000Z",
+        "updated_at": "2023-10-19T06:52:14.000000Z",
+        "balance": {
+          "id": 7,
+          "shop_id": 3,
+          "admin_commission_rate": 10,
+          "total_earnings": 369,
+          "withdrawn_amount": 0,
+          "current_balance": 369,
+          "payment_info": {
+            "name": "Bag Shop",
+            "email": "bag@demo.com",
+            "bank": "Bank3",
+            "account": 632145987000364
+          },
+          "created_at": "2021-06-28T03:50:00.000000Z",
+          "updated_at": "2023-10-25T05:36:20.000000Z"
+        }
+      },
+      {
+        "id": 4,
+        "owner_id": 1,
+        "name": "Makeup Shop",
+        "slug": "makeup-shop",
+        "description": "The makeup shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "890",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/888/Untitled-3.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/888/conversions/Untitled-3-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "891",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/Makeup.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/conversions/Makeup-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "USA",
+          "city": "Metairie",
+          "state": "Louisiana",
+          "zip": "70001",
+          "street_address": "2960  Rose Avenue"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "7196321822",
+          "website": "https://redq.io",
+          "socials": [
+            {
+              "icon": "InstagramIcon",
+              "url": "https://www.instagram.com/"
+            },
+            {
+              "icon": "TwitterIcon",
+              "url": "https://www.twitter.com/"
+            }
+          ],
+          "location": {
+            "lat": 51.5176117,
+            "lng": -0.210149,
+            "state": "England",
+            "country": "United Kingdom",
+            "formattedAddress": "Ladbroke Grove, London, UK"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:47:49.000000Z",
+        "updated_at": "2023-10-19T07:04:43.000000Z",
+        "balance": {
+          "id": 6,
+          "shop_id": 4,
+          "admin_commission_rate": 10,
+          "total_earnings": 167.4,
+          "withdrawn_amount": 0,
+          "current_balance": 167.4,
+          "payment_info": {
+            "name": "Makeup Shop",
+            "email": "makeup@demo.com",
+            "bank": "Bank4",
+            "account": 5621030364876100000
+          },
+          "created_at": "2021-06-28T03:49:56.000000Z",
+          "updated_at": "2023-10-25T05:33:59.000000Z"
+        }
+      },
+      {
+        "id": 5,
+        "owner_id": 1,
+        "name": "Bakery Shop",
+        "slug": "bakery-shop",
+        "description": "The bakery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "895",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/893/Untitled-5.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/893/conversions/Untitled-5-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "892",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/890/bakery.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/890/conversions/bakery-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "zip": "27801",
+          "city": "Rocky Mount",
+          "state": "Carolina",
+          "country": "USA",
+          "street_address": "4422  Fort Street"
+        },
+        "settings": {
+          "contact": "12902232121",
+          "socials": [
+            {
+              "url": "https://www.facebook.com/",
+              "icon": "FacebookIcon"
+            },
+            {
+              "url": "https://www.instagram.com/",
+              "icon": "InstagramIcon"
+            }
+          ],
+          "website": "https://redq.io/",
+          "location": {
+            "lat": 40.7315115,
+            "lng": -73.99582730000002,
+            "city": "New York",
+            "state": "NY",
+            "country": "United States",
+            "formattedAddress": "Washington Mews, New York, NY, USA"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:48:11.000000Z",
+        "updated_at": "2023-10-12T04:44:06.000000Z",
+        "balance": {
+          "id": 5,
+          "shop_id": 5,
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "bank": "Bank5",
+            "name": "Bakery Shop",
+            "email": "bakery@demo.com",
+            "account": 86453213548641330
+          },
+          "created_at": "2021-06-28T03:49:25.000000Z",
+          "updated_at": "2021-06-30T14:23:05.000000Z"
+        }
+      },
+      {
+        "id": 6,
+        "owner_id": 1,
+        "name": "Grocery Shop",
+        "slug": "grocery-shop",
+        "description": "The grocery shop is the best shop around the city. This is being run under the store owner and our aim is to provide fresh and quality product and hassle free customer service.",
+        "cover_image": {
+          "id": "894",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/Untitled-2.jpg",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/892/conversions/Untitled-2-thumbnail.jpg"
+        },
+        "logo": {
+          "id": "893",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/Group-36321.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/891/conversions/Group-36321-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "USA",
+          "city": "Freeport",
+          "state": "Illinois",
+          "zip": "61032",
+          "street_address": "1986  Spinnaker Lane"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "5619327220",
+          "website": "https://redq.io",
+          "socials": [
+            {
+              "icon": "FacebookIcon",
+              "url": "https://www.facebook.com/"
+            },
+            {
+              "icon": "InstagramIcon",
+              "url": "https://www.instagram.com/"
+            },
+            {
+              "icon": "TwitterIcon",
+              "url": "https://www.twitter.com/"
+            }
+          ],
+          "location": {
+            "lat": 38.9032325,
+            "lng": -77.0211068,
+            "city": "Washington",
+            "state": "DC",
+            "country": "United States",
+            "formattedAddress": "New York Ave NW, Washington, DC, USA"
+          }
+        },
+        "notifications": null,
+        "created_at": "2021-06-27T03:48:23.000000Z",
+        "updated_at": "2023-10-19T07:05:23.000000Z",
+        "balance": {
+          "id": 4,
+          "shop_id": 6,
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "name": "Grocery Shop",
+            "email": "grocery@demo.com",
+            "bank": "Bank6",
+            "account": 231321635465465
+          },
+          "created_at": "2021-06-28T03:48:49.000000Z",
+          "updated_at": "2023-10-19T07:05:23.000000Z"
+        }
+      },
+      {
+        "id": 7,
+        "owner_id": 1,
+        "name": "Books Shop",
+        "slug": "books-shop",
+        "description": "This is the book shop. All the publications sells their book under this book shop",
+        "cover_image": {
+          "id": 1374,
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/Cover.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1374/conversions/Cover-thumbnail.jpg"
+        },
+        "logo": {
+          "id": 1613,
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/Publisher-logo.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1613/conversions/Publisher-logo-thumbnail.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "Switzerland",
+          "city": "zurich",
+          "state": "California",
+          "zip": "8021",
+          "street_address": "44444"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "7033542601",
+          "website": "demodemo.com",
+          "location": [],
+          "socials": []
+        },
+        "notifications": null,
+        "created_at": "2021-12-07T16:47:07.000000Z",
+        "updated_at": "2023-10-25T03:30:21.000000Z",
+        "balance": {
+          "id": 9,
+          "shop_id": 7,
+          "admin_commission_rate": 10,
+          "total_earnings": 1030.5,
+          "withdrawn_amount": 0,
+          "current_balance": 1030.5,
+          "payment_info": {
+            "name": "book shop",
+            "email": "admin@example.com",
+            "bank": "book bank",
+            "account": 123456789
+          },
+          "created_at": "2021-12-07T16:47:07.000000Z",
+          "updated_at": "2023-10-16T04:27:06.000000Z"
+        }
+      },
+      {
+        "id": 9,
+        "owner_id": 1,
+        "name": "Gadget",
+        "slug": "gadget",
+        "description": "The Gadget shop is the best shop in the city. This is being run under the store owner and our aim is to provide quality product and hassle-free customer service.",
+        "cover_image": {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/conversions/Gadget-banner-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1723/Gadget-banner.png",
+          "id": 1723,
+          "file_name": "Gadget-banner.png"
+        },
+        "logo": {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/conversions/Gadget-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1722/Gadget.jpg",
+          "id": 1722,
+          "file_name": "Gadget.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "USA",
+          "city": "Michigan",
+          "state": "Alabama",
+          "zip": "35203",
+          "street_address": "1740  Bedford Street"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "7708140768",
+          "website": "test-site.com",
+          "location": [],
+          "socials": []
+        },
+        "notifications": null,
+        "created_at": "2023-10-02T08:38:16.000000Z",
+        "updated_at": "2023-10-19T06:54:37.000000Z",
+        "balance": {
+          "id": 11,
+          "shop_id": 9,
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "name": "John Doe",
+            "email": "john_doe@example.com",
+            "bank": "Bank of Huam",
+            "account": 1127862923231234
+          },
+          "created_at": "2023-10-02T08:38:16.000000Z",
+          "updated_at": "2023-10-02T12:36:01.000000Z"
+        }
+      },
+      {
+        "id": 11,
+        "owner_id": 1,
+        "name": "Medicine",
+        "slug": "medicine",
+        "description": null,
+        "cover_image": {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1787/conversions/Medicine-banner-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1787/Medicine-banner.png",
+          "id": 1787,
+          "file_name": "Medicine-banner.png"
+        },
+        "logo": {
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1786/conversions/Medicine-thumbnail.jpg",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/1786/Medicine.jpg",
+          "id": 1786,
+          "file_name": "Medicine.jpg"
+        },
+        "is_active": 1,
+        "address": {
+          "country": "United States",
+          "city": "Manhattan",
+          "state": "New York",
+          "zip": "12332",
+          "street_address": "East Avenue 1743, West Tower"
+        },
+        "settings": {
+          "notifications": {
+            "email": null
+          },
+          "contact": "8139982265",
+          "website": "test.com",
+          "location": [],
+          "socials": []
+        },
+        "notifications": null,
+        "created_at": "2023-10-02T17:42:55.000000Z",
+        "updated_at": "2023-10-19T07:02:38.000000Z",
+        "balance": {
+          "id": 13,
+          "shop_id": 11,
+          "admin_commission_rate": 10,
+          "total_earnings": 0,
+          "withdrawn_amount": 0,
+          "current_balance": 0,
+          "payment_info": {
+            "name": "Robert Stone",
+            "email": "rob.stone@example.com",
+            "bank": "Bank of California",
+            "account": 132314234543
+          },
+          "created_at": "2023-10-02T17:42:55.000000Z",
+          "updated_at": "2023-10-16T04:28:26.000000Z"
+        }
+      }
+    ]
+  }
+]
